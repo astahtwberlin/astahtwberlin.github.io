@@ -1,4 +1,8 @@
-body {
+h1, h3, h4, h5, h6 {
+  color: white !important;
+}
+
+  body {
   background: #fff;
   color: #798a9a;
   line-height: 1.7;
