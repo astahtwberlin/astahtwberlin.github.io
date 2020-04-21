@@ -112,52 +112,6 @@
 		} , { offset: '95%' } );
 	};
 
-	var navbarState = function() {
-
-		var lastScrollTop = 0;
-		$(window).scroll(function(){
-
-			var $this = $(this),
-				 	st = $this.scrollTop(),
-				 	navbar = $('.site-navbar');
-
-			if ( st > 200 ) {
-				navbar.addClass('scrolled');
-			} else {
-				navbar.removeClass('scrolled awake');
-			}
-
-			if ( navbar.hasClass('scrolled') && st > 300 ) {
-		   	if (st > lastScrollTop){
-		      // if (navbar.hasClass('scrolled')) {
-		      	navbar.removeClass('awake');
-		      	navbar.addClass('sleep');
-		      // }
-		   	} else {
-		      // if (navbar.hasClass('scrolled')) {
-		      	navbar.addClass('awake');
-		      	navbar.removeClass('sleep');
-		      // }
-		   	}
-		   	lastScrollTop = st;
-		  }
-
-		});
-
-
-
-		$('.site-navbar')
-		  .mouseenter(function() {
-		    var $this = $(this);
-		    $this.addClass('awake');
-		    $this.removeClass('sleep');
-		  })
-		  .mouseleave(function() {
-		    var $this = $(this);
-		    $this.addClass('sleep');
-		    $this.removeClass('awake');
-		  });
-	};
 
 
 
@@ -169,62 +123,6 @@
 	// };
 
 
-
-	// Page Nav
-	var clickMenu = function() {
-
-		$('.navbar-nav a:not([class="external"])').click(function(event){
-
-			var section = $(this).data('nav-section'),
-				navbar = $('.navbar-nav');
-				if (isMobile.any()) {
-					$('.navbar-toggle').click();
-				}
-				if ( $('[data-section="' + section + '"]').length ) {
-			    	$('html, body').animate({
-			        	scrollTop: $('[data-section="' + section + '"]').offset().top
-			    	}, 500, 'easeInOutExpo');
-			   }
-
-		    event.preventDefault();
-		    return false;
-		});
-
-
-	};
-
-	// Reflect scrolling in navigation
-	var navActive = function(section) {
-
-		var $el = $('.navbar-nav');
-		$el.find('li').removeClass('active');
-		$el.each(function(){
-			$(this).find('a[data-nav-section="'+section+'"]').closest('li').addClass('active');
-		});
-
-	};
-
-	var navigationSection = function() {
-
-		var $section = $('section[data-section]');
-
-		$section.waypoint(function(direction) {
-		  	if (direction === 'down') {
-		    	navActive($(this.element).data('section'));
-		  	}
-		}, {
-	  		offset: '150px'
-		});
-
-		$section.waypoint(function(direction) {
-		  	if (direction === 'up') {
-		    	navActive($(this.element).data('section'));
-		  	}
-		}, {
-		  	offset: function() { return -$(this.element).height() - 155; }
-		});
-
-	};
 
 
 	var smoothScroll = function() {

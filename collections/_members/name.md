@@ -1,7 +1,8 @@
 ---
-first_name: Kevin
-last_name: Wrede
-email: Kevin.Wrede@Student.HTW-Berlin.de
+first_name: Name
+last_name: Nachname
+email: Name.Nachname@Student.HTW-Berlin.de
+role: Vorsitzende*r
 status: Gewähltes Mitglied
 studyprogramm: Internationaler Studiengang Medieninformatik
 degree: Master

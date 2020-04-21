@@ -1,0 +1,18 @@
+navigation:
+  - title: Referate
+    url: /referate
+  - title: News
+    url: /news
+  - title: Meilensteine
+    url: /meilensteine
+  - title: Campusleben
+    url: /campusleben
+    subfolderitems:
+      - page: Gremien
+        url: /campusleben#section-gremien
+      - page: INIs & Co.
+        url: /campusleben#section-inis
+      - page: Haus der Transformation
+        url: /campusleben#section-hdt
+  - title: Sitzungen
+    url: /sitzungen
