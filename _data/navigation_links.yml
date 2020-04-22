@@ -1,10 +1,10 @@
 navigation:
-  - title: Referate
-    url: /referate
-  - title: News
-    url: /news
   - title: Meilensteine
     url: /meilensteine
+  - title: News
+    url: /news
+  - title: Referate
+    url: /referate
   - title: Campusleben
     url: /campusleben
     subfolderitems:
