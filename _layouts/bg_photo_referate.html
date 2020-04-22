@@ -10,7 +10,7 @@ layout: main
           <div class="card-body site-animate text-white mb-1">
             {{ content }}
             <div class="mt-4">
-              {% for referat in site.referate%}
+              {% for referat in site.data.referate.referate %}
                 <a href="#section-{{ referat.section }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ referat.title }}</a>
               {% endfor %}
             </div>

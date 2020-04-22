@@ -1,4 +1,0 @@
----
-section: nachhaltigkeit
-title: Nachhaltigkeit
----

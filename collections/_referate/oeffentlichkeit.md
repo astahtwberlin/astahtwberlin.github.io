@@ -1,4 +1,0 @@
----
-section: oeffentlichkeitsarbeit
-title: Öffentlichkeitsarbeit
----

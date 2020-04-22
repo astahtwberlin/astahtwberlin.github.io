@@ -1,4 +1,0 @@
----
-section: hochschulpolitik
-title: Hochschulpolitik
----

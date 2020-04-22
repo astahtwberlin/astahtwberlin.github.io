@@ -1,4 +1,0 @@
----
-section: kultur
-title: Kultur
----

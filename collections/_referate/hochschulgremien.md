@@ -1,4 +1,0 @@
----
-section: hochschulgremien
-title: Hochschulgremien
----

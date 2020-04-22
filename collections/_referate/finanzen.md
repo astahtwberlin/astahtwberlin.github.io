@@ -1,4 +1,0 @@
----
-section: finanzen
-title: Finanzen
----
