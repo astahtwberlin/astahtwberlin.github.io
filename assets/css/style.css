@@ -1,13 +1,39 @@
-h1, h3, h4, h5, h6 {
+.card-body > h1,
+.card-body > h2,
+.card-body > h3,
+.card-body > h4,
+.card-body > h5,
+.card-body > h6,
+.light-text > h3 {
   color: white !important;
 }
 
-  body {
+#text-event-card {
+  color: #000 !important;
+}
+
+.button-refarate {
+  width: 270px !important;
+  radius: 30%;
+  background-color: rgba(255, 255, 255, 0.25) !important;
+  border: 3px solid rgba(255, 255, 255, 0);
+  color: white !important;
+  margin: 5px !important;
+  margin-bottom: 15px !important;
+  padding: 5px !important;
+}
+.button-refarate:hover {
+  background-color: rgba(255, 255, 255, 1) !important;
+  color: black !important;
+}
+
+body {
   background: #fff;
   color: #798a9a;
   line-height: 1.7;
   font-size: 16px;
-  font-weight: 300; }
+  font-weight: 300;
+}
 
 .backbutton {
   position: fixed;

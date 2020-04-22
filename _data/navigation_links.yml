@@ -8,6 +8,8 @@ navigation:
   - title: Campusleben
     url: /campusleben
     subfolderitems:
+      - page: Übersicht
+        url: /campusleben
       - page: Gremien
         url: /campusleben#section-gremien
       - page: INIs & Co.

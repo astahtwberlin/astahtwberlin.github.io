@@ -1,0 +1,23 @@
+---
+layout: main
+---
+<section class="site-hero" style="background-image: url(assets/images/Fotos/{{ page.image }}.jpg);" id="section-home" data-stellar-background-ratio="0.5">
+  <div class="container">
+    <div class="row intro-text align-items-center justify-content-center">
+      <div class="col-md-10 text-center">
+        <h1 class="site-heading site-animate"><strong>{{ page.title_strong }}</strong>{{ page.title_thin }}</h1>
+        <div class="card site-animate mb-3" style="background-color: rgba(15, 15, 15, .5); color: white;">
+          <div class="card-body site-animate text-white mb-1">
+            {{ content }}
+            <div class="mt-4">
+              {% for referat in site.referate%}
+                <a href="#section-{{ referat.section }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ referat.title }}</a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
