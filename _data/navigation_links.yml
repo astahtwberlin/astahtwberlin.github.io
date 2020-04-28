@@ -1,10 +1,12 @@
 navigation:
-  - title: Meilensteine
-    url: /meilensteine
   - title: News
     url: /news
+  - title: Meilensteine
+    url: /meilensteine
   - title: Referate
     url: /referate
+  - title: Sitzungen
+    url: /sitzungen
   - title: Campusleben
     url: /campusleben
     subfolderitems:
@@ -16,5 +18,3 @@ navigation:
         url: /campusleben#section-inis
       - page: Haus der Transformation
         url: /campusleben#section-hdt
-  - title: Sitzungen
-    url: /sitzungen

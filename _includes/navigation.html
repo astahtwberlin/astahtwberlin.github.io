@@ -1,12 +1,15 @@
-<nav class="navbar fixed-top navbar-expand-lg my-site-navbar navbar-light bg-light">
-  <div class="container">
+<nav class="navbar d-flex fixed-top navbar-expand-lg my-site-navbar navbar-light bg-light">
+  <div class="container mx-auto">
+
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <a href="index.html">
-      <img src="assets/images/AStA-Logo.png" alt="Logo AStA" height="50" width="114">
+      <img src="{{ site.data.infos.logo }}" alt="Logo AStA" height="50" width="114">
     </a>
+    
     <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample09">
+
       <ul class="navbar-nav">
         {% for item in site.data.navigation_links.navigation %}
 

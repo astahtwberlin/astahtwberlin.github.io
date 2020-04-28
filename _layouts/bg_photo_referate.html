@@ -9,6 +9,15 @@ layout: main
         <div class="card site-animate mb-3" style="background-color: rgba(15, 15, 15, .5); color: white;">
           <div class="card-body site-animate text-white mb-1">
             {{ content }}
+            <h3>Vorsitz</h3>
+            <div class="mt-4">
+              {% for vorsitz in site.data.vorsitz.vorsitz %}
+                <a href="#section-{{ vorsitz.referat }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ vorsitz.title }}</a>
+              {% endfor %}
+            </div>
+            <hr class="w-50" style="opacity: 0.5;"/>
+
+            <h3>Referate</h3>
             <div class="mt-4">
               {% for referat in site.data.referate.referate %}
                 <a href="#section-{{ referat.section }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ referat.title }}</a>
@@ -21,3 +30,5 @@ layout: main
   </div>
 
 </section>
+{% include referat_sections.html %}
+<hr/>

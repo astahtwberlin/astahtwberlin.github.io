@@ -6,21 +6,25 @@ layout: secondary
   <div class="container mt-5">
     <h1>Impressum</h1>
     <h2 id="m46">Diensteanbieter</h2>
-    <p> AStA der HTW Berlin _______ _________</p>
-    <p> Gebäude B, Raum 202</p>
-    <p> Wilhelminenhofstraße 75A</p>
-    <p> 12459 Berlin</p>
+    <p><strong> Standort Treskowallee</strong></p>
+    <p> {{ site.data.infos.office.TA.raum }}<br>
+       {{ site.data.infos.office.TA.strasse }}<br>
+       {{ site.data.infos.office.TA.plz_ort }}</p>
+    <p><strong> Standort Wilhelminenhofstraße</strong></p>
+    <p> {{ site.data.infos.office.WH.raum }}<br>
+       {{ site.data.infos.office.WH.strasse }}<br>
+       {{ site.data.infos.office.WH.plz_ort }}</p>
     <ul class="m-elements"></ul>
     <h2 id="m56">Kontaktmöglichkeiten</h2>
-    <p><strong>E-Mail-Adresse</strong>: asta.htw.students@gmail.com</p>
-    <p><strong>Telefon</strong>: 030 50192540</p>
+    <p><strong>E-Mail-Adresse</strong>: {{ site.data.infos.kontakt.email }}</p>
+    <p><strong>Telefon</strong>: {{ site.data.infos.kontakt.telefon }}</p>
     <h2 id="m153">Vertretungsberechtigte</h2>
-    <p><strong>Vertretungsberechtigt</strong>: _______ _________ (Vorsitzende)</p>
+    <p><strong>Vertretungsberechtigt</strong>: {{ site.data.infos.verantwortliche_r }}</p>
     <h2 id="m172">Social Media und andere Onlinepräsenzen</h2>
     <p><strong>Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile</strong>:</p>
-    <p><a href="https://www.instagram.com/astahtw/" target="_blank">https://www.instagram.com/astahtw/</a></p>
-    <p><a href="https://www.facebook.com/asta.htw.berlin/" target="_blank">https://www.facebook.com/asta.htw.berlin/</a></p>
-    <p><a href="https://twitter.com/asta_htw_berlin/" target="_blank">https://twitter.com/asta_htw_berlin/</a></p>
+    <p><a href="{{ site.data.infos.social.facebook }}" target="_blank">{{ site.data.infos.social.facebook }}</a></p>
+    <p><a href="{{ site.data.infos.social.instagram }}" target="_blank">{{ site.data.infos.social.instagram }}</a></p>
+    <p><a href="{{ site.data.infos.social.twitter }}" target="_blank">{{ site.data.infos.social.twitter }}</a></p>
     <h2 id="m169">Bildnachweise</h2>
     <p><strong>Bildquellen und Urheberrechtshinweise</strong>:</p>
     <p>Bild unter dem Menüpunkt "News" © HTW Berlin.</p>

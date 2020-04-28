@@ -1,0 +1,33 @@
+{% for referat in site.data.referate.referate %}
+<section>
+  <section class="site-section" id="section-{{ referat.section }}">
+    <div class="container">
+      <div class="row">
+        <div class="section-heading text-center col-md-12">
+          <h2><strong>{{ referat.title }}</strong></h2>
+          <p class="lead">Sommersemester 2020</p>
+        </div>
+      </div>
+
+
+      <div class="container">
+        <div class="row justify-content-center">
+
+          {% for member in site.members %}
+           <div class="card mt-5 m-auto d-flex" style="width: 23%; min-width: 15rem; height: 20rem;">
+            <img src="assets/images/Members/{{ member.image }}" class="card-img-top" alt="{{ member.image_alt }}">
+            <div class="card-body">
+              <h5 class="card-title" id="text-event-card">{{ member.title }} - {{ member.name }}</h5>
+                 <p id="text-event-card">Ein Text</p>
+              <a href="mailto:{{ member.mail }}" class="btn btn-primary mt-auto">Mail schreiben</a>
+            </div>
+          </div>
+          {% endfor %}
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+{% endfor %}

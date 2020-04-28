@@ -1,2 +1,5 @@
 name: FSR4 der HTW Berlin
 collections_dir: collections
+collections:
+  members:
+    #
