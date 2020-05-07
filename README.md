@@ -1,3 +1,4 @@
+![deploy](https://github.com/astahtwberlin/astahtwberlin.github.io/workflows/deploy/badge.svg)
 # astahtwberlin.github.io
 Webseite des AStA der HTW Berlin
 
