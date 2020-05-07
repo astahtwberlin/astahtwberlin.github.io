@@ -1,5 +1,7 @@
+
+# astahtwberlin.github.io 
 ![deploy](https://github.com/astahtwberlin/astahtwberlin.github.io/workflows/deploy/badge.svg)
-# astahtwberlin.github.io
+
 Webseite des AStA der HTW Berlin
 
 ## Aufbau der Website
@@ -10,8 +12,8 @@ Enthält HTML-Code-Snippets, die einen eigenständigen Teil der Website abbilden
 ### _layout
 Enthält HTML-Code-Snippets, die die Struktur der Website abbilden. Diese können als Vorlage für neue Seiten verwendet werden.
 
-### collections
-Enthält Daten für die Webseite im Markdown-Format wie Mitglieder oder Veranstaltungen. Diese werden dann in den entsperchenden Bereichen der Seite gerendert.
+### _data
+Enthält Daten für die Webseite im yml wie Referate oder Gremien. Diese werden dann in den entsperchenden Bereichen der Seite eingefügt.
 
 ### assets
 Hier können Dateien abgelegt werden, die auf der Website eingebunden werden sollen (z.B. Bilder, Stylesheets, ...).
