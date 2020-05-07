@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
@@ -15,21 +20,6 @@ sections:
 - type: document
   path: _includes/*.html
   label: Includes
-- type: directory
-  path: collections/_resorts
-  label: Resorts
-  create: documents
-  match: "*.md"
-- type: directory
-  path: collections/_members
-  label: Members
-  create: documents
-  match: "*.md"
-- type: directory
-  path: collections/_events
-  label: Events
-  create: documents
-  match: "*.md"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
