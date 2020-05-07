@@ -1,0 +1,52 @@
+gremien:
+  - title: StuPa
+    desc: Studierendenparlament
+    picture:
+    email: dunno
+    link: some website
+  - title: AStA
+    desc: Allgemeiner Studierendenausschuss
+    picture: AStA_square.jpeg
+    email: dunno
+    link: some website
+  - title: FSRe
+    desc: Vertritt die Interessen der Studierenden im Fachbereich 1
+    picture: FSR1_square.jpg
+    email: dunno
+    link: some website
+  - title: FSR2
+    desc: Vertritt die Interessen der Studierenden im Fachbereich 2
+    picture: FSR2_square.jpg
+    email: dunno
+    link: some website
+  - title: FSR3
+    desc: Vertritt die Interessen der Studierenden im Fachbereich 3
+    picture: FSR3_square.jpg
+    email: dunno
+    link: some website
+  - title: FSR4
+    desc: Vertritt die Interessen der Studierenden im Fachbereich 4
+    picture: FSR4_square.jpg
+    email: fsr-4@lists.htw-berlin.de
+    link: https://fsr4.github.io
+  - title: FSR5
+    desc: Vertritt die Interessen der Studierenden im Fachbereich 5
+    picture: FSR5_square.jpg
+    email: dunno
+    link: some website
+inis:
+  - title: Some INI
+    desc: Die machen was cooles
+    picture:
+    email: 
+    link:
+  - title: Another INI
+    desc: Ist auch was tolles, was die machen
+    picture:
+    email:
+    link:
+  - title: Noch eine andere INI
+    desc: Die machen noch was anderes
+    picture:
+    email:
+    link:

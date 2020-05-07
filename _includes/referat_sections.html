@@ -13,13 +13,31 @@
       <div class="container">
         <div class="row justify-content-center">
 
-          {% for member in site.members %}
-           <div class="card mt-5 m-auto d-flex" style="width: 23%; min-width: 15rem; height: 20rem;">
-            <img src="assets/images/Members/{{ member.image }}" class="card-img-top" alt="{{ member.image_alt }}">
-            <div class="card-body">
-              <h5 class="card-title" id="text-event-card">{{ member.title }} - {{ member.name }}</h5>
-                 <p id="text-event-card">Ein Text</p>
-              <a href="mailto:{{ member.mail }}" class="btn btn-primary mt-auto">Mail schreiben</a>
+          {% for member in referat.members %}
+
+          <!-- adapted from https://bootsnipp.com/snippets/AXnRg -->
+          <!-- manual-flip -->
+          <div class="card-container flip m-3" style="width: 300px; height: 262px;">
+            <div class="card">
+              <div class="front">
+                <img class="card-img-top" src="{%if member.image%}assets/images/Members/{{ member.image }}{%else%}assets/images/placeholder_square.jpg{%endif%}" style="border: 3px solid #dedede !important; border-radius: 5%;"/>
+                <div class="card-body">
+                  <!--<h3 class="card-title" id="text-event-card">{{ gremium.title }}</h3>
+                  <div class="footer"><button class="btn btn-simple" onclick="rotateCard(this)"><i class="fa fa-mail-forward"></i> Manual Rotation</button></div>-->
+                </div>
+              </div>
+              <!-- end front panel -->
+              <div class="back">
+                <div class="card-body text-center" style="width: 300px; height: 262px; border: 3px solid #dedede !important; border-radius: 5%;">
+                  <h3 class="card-title mt-3" id="text-event-card">{{ member.name }}</h3>
+                  {% if member.position %}
+                    <p class="card-text" style="text-transform: uppercase; color: red">{{member.position}}</p>
+                  {% endif %}
+                  <p class="card-text">{{ member.desc }}</p>
+                  <a href="mailto:{{ member.email }}" class="btn btn-primary mt-auto mb-1 py-0">Mail schreiben</a>
+                </div>
+                <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
+              </div>
             </div>
           </div>
           {% endfor %}

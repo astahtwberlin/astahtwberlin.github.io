@@ -1,0 +1,45 @@
+<section>
+  <section class="site-section" id="section-inis">
+    <div class="container">
+      <div class="row">
+        <div class="section-heading text-center col-md-12">
+          <h2 class="mb-5"><strong>INIs</strong> & Co.</h2>
+
+          <div class="container">
+            <div class="row justify-content-center">
+
+              {% for ini in site.data.campusleben.inis %}
+
+              <!-- adapted from https://bootsnipp.com/snippets/AXnRg -->
+              <!-- manual-flip -->
+              <div class="card-container flip m-3" style="width: 300px; height: 262px;">
+                <div class="card">
+                  <div class="front">
+                    <img class="card-img-top" src="{%if ini.picture%}assets/images/Logos/{{ ini.picture }}{%else%}assets/images/placeholder_square.jpg{%endif%}" style="border: 3px solid #dedede !important; border-radius: 5%;"/>
+                    <div class="card-body">
+                      <!--<h3 class="card-title" id="text-event-card">{{ gremium.title }}</h3>
+                      <div class="footer"><button class="btn btn-simple" onclick="rotateCard(this)"><i class="fa fa-mail-forward"></i> Manual Rotation</button></div>-->
+                    </div>
+                  </div>
+                  <!-- end front panel -->
+                  <div class="back">
+                    <div class="card-body" style="width: 300px; height: 262px; border: 3px solid #dedede !important; border-radius: 5%;">
+                      <h3 class="card-title mt-3" id="text-event-card">{{ ini.title }}</h3>
+                      <p class="card-text">{{ini.desc }}</p>
+                      <a href="mailto:{{ ini.email }}" class="btn btn-primary mt-auto mb-1 py-0">Mail schreiben</a>
+                      <a href="{{ ini.link }}" target="_blank" class="btn btn-primary mt-auto py-0">Webseite besuchen</a>
+                    </div>
+                    <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
+                  </div>
+                </div>
+              </div>
+
+              {% endfor %}
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>

@@ -1,5 +1,5 @@
 ---
-layout: bg_photo
+layout: bg_photo_campuslife
 permalink: campusleben
 title_strong: Campus
 title_thin: leben
