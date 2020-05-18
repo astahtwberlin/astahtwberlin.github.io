@@ -1,6 +1,6 @@
 ---
 layout: bg_photo
-permalink: meilenstein
+permalink: meilensteine
 title_strong: meilen
 title_thin: steine
 image: Abb5
