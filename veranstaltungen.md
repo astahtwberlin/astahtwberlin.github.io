@@ -6,6 +6,5 @@ title_thin: ''
 image: Abb8
 text: ''
 kalender: 
-published: false
 
 ---
