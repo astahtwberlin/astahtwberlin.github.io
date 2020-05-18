@@ -6,6 +6,6 @@ title_thin:
 image: Abb6
 
 ---
-Wir treffen uns derzeit wöchentlich immer dienstags um 18 Uhr !
+Wir treffen uns derzeit wöchentlich immer dienstags um 18 Uhr über BigBlueButton!
 
 Kommt gerne vorbei [https://moodle.htw-berlin.de/course/view.php?id=27478](https://moodle.htw-berlin.de/course/view.php?id=27478 "https://moodle.htw-berlin.de/course/view.php?id=27478") !
