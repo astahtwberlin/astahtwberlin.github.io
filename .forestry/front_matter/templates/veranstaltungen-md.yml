@@ -17,3 +17,18 @@ fields:
 - type: text
   name: image
   label: image
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+  description: text
+- name: kalender
+  type: datetime
+  label: kalender
+  description: Was steht an? Schau in unseren Kalender!
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
