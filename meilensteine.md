@@ -1,11 +1,15 @@
 ---
 layout: bg_photo
-permalink: meilensteine
-title_strong: Meilen
-title_thin: steine
+permalink: Wozu
+title_strong: Wozu
+title_thin: "?"
 image: Abb5
+
 ---
+## Wozu brauchen die Studierenden der HTW Berlin einen AStA? 
 
-## Was wir schon geschafft haben!
+## Wozu braucht ihr uns? 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Was haben wir für euch bereits gemeinschaftlich erreicht? 
+
+**2020** 
