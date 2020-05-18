@@ -10,8 +10,8 @@ navigation:
   url: "/referate"
 - title: Sitzungen
   url: "/sitzungen"
-- title: Was haben wir erreicht?
-  url: "/achievements"
+- title: Veranstaltungen
+  url: "/events"
 - title: Campusleben
   url: "/campusleben"
   subfolderitems:
