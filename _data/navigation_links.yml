@@ -1,20 +1,23 @@
+---
 navigation:
-  - title: News
-    url: /news
-  - title: Meilensteine
-    url: /meilensteine
-  - title: Referate
-    url: /referate
-  - title: Sitzungen
-    url: /sitzungen
-  - title: Campusleben
-    url: /campusleben
-    subfolderitems:
-      - page: Übersicht
-        url: /campusleben
-      - page: Gremien
-        url: /campusleben#section-gremien
-      - page: INIs & Co.
-        url: /campusleben#section-inis
-      - page: Haus der Transformation
-        url: /campusleben#section-hdt
+- title: ''
+  url: ''
+- title: News
+  url: "/news"
+- title: Wozu?
+  url: "/wozu"
+- title: Referate
+  url: "/referate"
+- title: Sitzungen
+  url: "/sitzungen"
+- title: Campusleben
+  url: "/campusleben"
+  subfolderitems:
+  - page: Übersicht
+    url: "/campusleben"
+  - page: Gremien
+    url: "/campusleben#section-gremien"
+  - page: INIs & Co.
+    url: "/campusleben#section-inis"
+  - page: Haus der Transformation
+    url: "/campusleben#section-hdt"
