@@ -9,7 +9,7 @@ navigation:
 - title: Sitzungen
   url: "/sitzungen"
 - title: Veranstaltungen
-  url: "/events"
+  url: "/veranstaltungen"
 - title: Campusleben
   url: "/campusleben"
   subfolderitems:
