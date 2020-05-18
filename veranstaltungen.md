@@ -1,5 +1,5 @@
 ---
-layout: bg_photo_referate
+layout: bg_photo_veranstaltungen
 permalink: veranstaltungen
 title_strong: Veranstaltungen
 title_thin: ''
