@@ -35,14 +35,49 @@ referate:
     position: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Kultur
   section: kultur
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Hochschulgremien
   section: hochschulgremien
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Internationales
   section: internationales
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
