@@ -1,7 +1,7 @@
 ---
 layout: bg_photo
 permalink: beratung
-title_strong: Wir beraten euch gerne zu folgenden Themen...
+title_strong: ''
 title_thin: Wir beraten euch gerne zu folgenden Themen...
 image: Abb5
 
