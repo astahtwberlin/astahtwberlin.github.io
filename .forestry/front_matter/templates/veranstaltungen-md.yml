@@ -11,9 +11,11 @@ fields:
 - type: text
   name: title_strong
   label: title_strong
+  description: Veranstaltungen
 - type: text
   name: title_thin
   label: title_thin
 - type: text
-  name: image
-  label: image
+  name: veranstaltungen
+  label: abb8
+  default: "/assets/images/abb8.jpg"
