@@ -1,7 +1,5 @@
 ---
 navigation:
-- title: 'WIR '
-  url: home
 - title: Beratung
   url: beratung
 - title: News
