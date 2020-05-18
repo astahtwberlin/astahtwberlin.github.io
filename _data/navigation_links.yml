@@ -1,17 +1,17 @@
 ---
 navigation:
-- title: Beratung
-  url: beratung
 - title: 'WIR '
   url: home
+- title: Beratung
+  url: beratung
 - title: News
   url: "/news"
-- title: Wozu?
-  url: "/wozu"
 - title: Referate
   url: "/referate"
 - title: Sitzungen
   url: "/sitzungen"
+- title: Was haben wir erreicht?
+  url: "/achievements"
 - title: Campusleben
   url: "/campusleben"
   subfolderitems:
