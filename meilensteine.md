@@ -1,15 +1,9 @@
 ---
 layout: bg_photo
-permalink: achievements
+permalink: beratung
 title_strong: meilen
 title_thin: steine
 image: Abb5
 
 ---
-## Wozu brauchen die Studierenden der HTW Berlin einen AStA? 
-
-## Wozu braucht ihr uns? 
-
-Was haben wir für euch bereits gemeinschaftlich erreicht? 
-
-**2020** 
+## 
