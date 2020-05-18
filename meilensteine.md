@@ -1,8 +1,8 @@
 ---
 layout: bg_photo
-permalink: Wozu
-title_strong: Wozu
-title_thin: "?"
+permalink: Meilenstein
+title_strong: meilen
+title_thin: steine
 image: Abb5
 published: false
 
