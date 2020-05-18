@@ -22,6 +22,17 @@ referate:
     position: Finanzen 1
 - title: Soziales
   section: soziales
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
 - title: Öffentlichkeitsarbeit
