@@ -1,26 +1,33 @@
+---
 referate:
-  - title: Finanzen
-    section: finanzen
-    members:
-      - name: Vorname Nachname
-        mail: mail@me.com
-        picture:
-        desc: Ich bin cool :)
-        position: Vorsitzende
-      - name:
-        mail:
-        picture:
-  - title: Soziales
-    section: soziales
-  - title: Hochschulpolitik
-    section: hochschulpolitik
-  - title: Öffentlichkeitsarbeit
-    section: oeffentlichkeitsarbeit
-  - title: Kultur
-    section: kultur
-  - title: Hochschulgremien
-    section: hochschulgremien
-  - title: Internationales
-    section: internationales
-  - title: Nachhaltigkeit
-    section: nachhaltigkeit
+- title: Finanzen
+  section: finanzen
+  members:
+  - name: Vorname Nachname
+    mail: mail@me.com
+    picture: 
+    desc: Ich bin cool :)
+    position: Vorsitzende
+  - name: 
+    mail: 
+    picture: 
+- title: Soziales
+  section: soziales
+- title: Hochschulpolitik
+  section: hochschulpolitik
+- title: Öffentlichkeitsarbeit
+  section: oeffentlichkeitsarbeit
+- title: Kultur
+  section: kultur
+- title: Hochschulgremien
+  section: hochschulgremien
+- title: Internationales
+  section: internationales
+- title: Nachhaltigkeit
+  section: nachhaltigkeit
+  members:
+  - name: 'Nachhaltigkeit 1 '
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
