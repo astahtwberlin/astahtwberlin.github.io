@@ -15,7 +15,7 @@ fields:
   name: title_thin
   label: title_thin
 - type: text
-  name: image
+  name: abb8
   label: image
 - name: text
   type: text
