@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: ''
 permalink: veranstaltungen
 title_strong: Veranstaltungen
 title_thin: ''
