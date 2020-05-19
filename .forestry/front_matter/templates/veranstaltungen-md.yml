@@ -3,8 +3,8 @@ label: veranstaltungen.md
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
+  name: layout1
+  label: layout1
 - type: text
   name: permalink
   label: permalink
@@ -15,7 +15,7 @@ fields:
   name: title_thin
   label: title_thin
 - type: text
-  name: abb8
+  name: image
   label: image
 - name: text
   type: text
