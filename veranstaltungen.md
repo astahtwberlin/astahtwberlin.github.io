@@ -3,7 +3,7 @@ layout: bg_photo
 permalink: veranstaltungen
 title_strong: Veranstaltungen
 title_thin: ''
-image: abb8
+image: Abb8
 text: ''
 kalender: ''
 abb8: ''
