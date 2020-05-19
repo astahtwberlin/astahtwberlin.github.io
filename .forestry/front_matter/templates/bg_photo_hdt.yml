@@ -17,3 +17,8 @@ fields:
 - type: text
   name: image
   label: image
+- name: upload_picture
+  type: file
+  config:
+    maxSize: 64
+  label: upload_picture
