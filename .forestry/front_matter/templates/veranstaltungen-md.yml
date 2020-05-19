@@ -18,11 +18,5 @@ fields:
 - type: text
   name: image
   label: image
-- name: text
-  type: text
-  config:
-    required: false
-  label: text
-  description: text
 pages:
 - veranstaltungen.md
