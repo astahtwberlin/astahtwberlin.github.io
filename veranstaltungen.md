@@ -1,12 +1,12 @@
 ---
-layout: veranstaltungen.md
+layout: layout
 permalink: veranstaltungen
 title_strong: Veranstaltungen
 title_thin: ''
 image: abb8
 text: ''
-kalender: 
+kalender: ''
 abb8: ''
-layout1: layout1
+layout1: ''
 
 ---
