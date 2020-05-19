@@ -19,4 +19,5 @@ fields:
   name: image
   label: image
 pages:
+- HdT.md
 - veranstaltungen.md
