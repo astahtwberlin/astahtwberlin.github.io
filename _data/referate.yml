@@ -88,6 +88,6 @@ referate:
     position: 'Nachhaltigkeit 1 '
   - name: Anna Reichardt
     mail: asta.htw.students@gmail.com
-    picture: ''
+    picture: "/assets/images/referatsbild_annareichardt.png"
     desc: ''
     position: Nachhaltigkeit 2
