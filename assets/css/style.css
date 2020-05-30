@@ -5,7 +5,8 @@
 .card-body > h5,
 .card-body > h6,
 .light-text > h3 {
-  color: white !important;
+  color: rgb(50, 50, 50) !important;
+  font-weight: bold;
 }
 
 #text-event-card {
@@ -15,15 +16,16 @@
 .button-refarate {
   width: 270px !important;
   radius: 30%;
-  background-color: rgba(255, 255, 255, 0.25) !important;
-  border: 3px solid rgba(255, 255, 255, 0);
-  color: white !important;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  border: 3px solid rgba(255, 255, 255, 1) !important;
+  color: rgba(50, 50, 50, 1) !important;
   margin: 5px !important;
   margin-bottom: 15px !important;
   padding: 5px !important;
 }
 .button-refarate:hover {
   background-color: rgba(255, 255, 255, 1) !important;
+  border-color: #76b900 !important;
   color: black !important;
 }
 

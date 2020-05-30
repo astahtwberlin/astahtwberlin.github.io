@@ -1,7 +1,7 @@
 ---
 layout: bg_photo
 permalink: beratung
-title_strong: ''
+title_strong: Beratung
 title_thin: ''
 image: Abb5
 ---
