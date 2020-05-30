@@ -4,10 +4,10 @@ layout: main
 
 {% include bg_photo_top.html %}
 {{ content }}
-<h3 class="mb-3">Vorsitz</h3>
+<h3 class="mb-3">Vorstand</h3>
 <div class="mt-4">
-  {% for vorsitz in site.data.vorsitz.vorsitz %}
-  <a href="#section-{{ vorsitz.referat }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ vorsitz.title }}</a>
+  {% for vorstand in site.data.vorstand.vorstand %}
+  <a href="#section-{{ vorstand.referat }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ vorstand.title }}</a>
   {% endfor %}
 </div>
 <hr class="w-50"/>

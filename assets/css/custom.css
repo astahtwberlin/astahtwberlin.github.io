@@ -1,3 +1,11 @@
+.fa {
+    padding: 20px;
+    font-size: 60px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
 .resume-item {
   color: #959ca3;
   width: 30vw;
