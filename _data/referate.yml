@@ -1,26 +1,93 @@
+---
 referate:
-  - title: Finanzen
-    section: finanzen
-    members:
-      - name: Vorname Nachname
-        mail: mail@me.com
-        picture:
-        desc: Ich bin cool :)
-        position: Vorsitzende
-      - name:
-        mail:
-        picture:
-  - title: Soziales
-    section: soziales
-  - title: Hochschulpolitik
-    section: hochschulpolitik
-  - title: Öffentlichkeitsarbeit
-    section: oeffentlichkeitsarbeit
-  - title: Kultur
-    section: kultur
-  - title: Hochschulgremien
-    section: hochschulgremien
-  - title: Internationales
-    section: internationales
-  - title: Nachhaltigkeit
-    section: nachhaltigkeit
+- title: Finanzen
+  section: finanzen
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: Emily Sindakowski
+    mail: asta.htw.students@gmail.com
+    picture: "/assets/images/referatsbilder.png"
+    desc: „Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig
+      und kümmere mich um eure Abrechnungen und Vorschüsse, für fragen stehe ich gerne
+      über unsere Mailadresse zur Verfügung."
+    position: Finanzen 1
+- title: Soziales
+  section: soziales
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Hochschulpolitik
+  section: hochschulpolitik
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Öffentlichkeitsarbeit
+  section: oeffentlichkeitsarbeit
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Kultur
+  section: kultur
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Hochschulgremien
+  section: hochschulgremien
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Internationales
+  section: internationales
+  members:
+  - name: ''
+    mail: ''
+    picture: ''
+    desc: ''
+    position: ''
+- title: Nachhaltigkeit
+  section: nachhaltigkeit
+  members:
+  - name: "?"
+    mail: ''
+    picture: ''
+    desc: ''
+    position: 'Nachhaltigkeit 1 '
+  - name: Anna Reichardt
+    mail: asta.htw.students@gmail.com
+    picture: "/assets/images/referatsbild_annareichardt.png"
+    desc: ''
+    position: Nachhaltigkeit 2

@@ -2,10 +2,12 @@
 layout: bg_photo
 permalink: sitzungen
 title_strong: Sitzungen
-title_thin:
+title_thin: 
 image: Abb6
+
 ---
+Wir treffen uns derzeit wöchentlich immer dienstags um 18 Uhr über BigBlueButton!
 
-## Wann wir uns treffen und so...
+Kommt gerne vorbei zur [https://app.forestry.io/sites/8tjqodgsqxkmsg/](https://app.forestry.io/sites/8tjqodgsqxkmsg/ "Online-Sitzung über BigBlueButton")!
 
-...lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Protokolle aus unseren vergangenen Sitzungen folgen Ende Juni.

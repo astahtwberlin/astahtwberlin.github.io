@@ -1,20 +1,23 @@
+---
 navigation:
+  - title: Beratung
+    url: beratung
   - title: News
-    url: /news
-  - title: Meilensteine
-    url: /meilensteine
+    url: "/news"
   - title: Referate
-    url: /referate
+    url: "/referate"
   - title: Sitzungen
-    url: /sitzungen
+    url: "/sitzungen"
+  - title: Veranstaltungen
+    url: "/veranstaltungen"
   - title: Campusleben
-    url: /campusleben
+    url: "/campusleben"
     subfolderitems:
-      - page: Übersicht
-        url: /campusleben
-      - page: Fachschaften
-        url: /campusleben#section-fachschaften
-      - page: INIs & Co.
-        url: /campusleben#section-inis
-      - page: Haus der Transformation
-        url: /campusleben#section-hdt
+    - page: Übersicht
+      url: "/campusleben"
+    - page: Gremien
+      url: "/campusleben#section-gremien"
+    - page: INIs & Co.
+      url: "/campusleben#section-inis"
+    - page: Haus der Transformation
+      url: "/campusleben#section-hdt"
