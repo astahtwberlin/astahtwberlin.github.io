@@ -12,8 +12,8 @@ navigation:
     subfolderitems:
       - page: Übersicht
         url: /campusleben
-      - page: Gremien
-        url: /campusleben#section-gremien
+      - page: Fachschaften
+        url: /campusleben#section-fachschaften
       - page: INIs & Co.
         url: /campusleben#section-inis
       - page: Haus der Transformation

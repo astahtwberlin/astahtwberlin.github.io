@@ -1,14 +1,14 @@
 <section>
-  <section class="site-section" id="section-gremien">
+  <section class="site-section" id="section-fachschaften">
     <div class="container">
       <div class="row">
         <div class="section-heading text-center col-md-12">
-          <h2 class="mb-5"><strong>Gremien</strong></h2>
+          <h2 class="mb-5"><strong>Fachschaften</strong></h2>
 
           <div class="container">
             <div class="row justify-content-center">
 
-              {% for gremium in site.data.campusleben.gremien %}
+              {% for gremium in site.data.campusleben.fachschaften %}
 
               <!-- adapted from https://bootsnipp.com/snippets/AXnRg -->
               <!-- manual-flip -->
@@ -23,11 +23,11 @@
                   </div>
                   <!-- end front panel -->
                   <div class="back">
-                    <div class="card-body" style="width: 300px; height: 262px; border: 3px solid #dedede !important; border-radius: 5%;">
+                    <div class="card-body d-flex flex-column" style="width: 300px; height: 262px; border: 3px solid #dedede !important; border-radius: 5%;">
                       <h3 class="card-title mt-3" id="text-event-card">{{ gremium.title }}</h3>
                       <p class="card-text">{{ gremium.desc }}</p>
                       <a href="mailto:{{ gremium.email }}" class="btn btn-primary mt-auto mb-1 py-0" >Mail schreiben</a>
-                      <a href="{{ gremium.link }}" target="_blank" class="btn btn-primary mt-auto py-0">Webseite besuchen</a>
+                      <a href="{{ gremium.link }}" target="_blank" class="btn btn-primary mt-1 py-0">Webseite besuchen</a>
                     </div>
                     <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
                   </div>

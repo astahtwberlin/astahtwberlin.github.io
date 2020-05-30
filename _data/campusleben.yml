@@ -1,14 +1,4 @@
-gremien:
-  - title: StuPa
-    desc: Studierendenparlament
-    picture:
-    email: dunno
-    link: some website
-  - title: AStA
-    desc: Allgemeiner Studierendenausschuss
-    picture: AStA_square.jpeg
-    email: dunno
-    link: some website
+fachschaften:
   - title: FSRe
     desc: Vertritt die Interessen der Studierenden im Fachbereich 1
     picture: FSR1_square.jpg
@@ -38,7 +28,7 @@ inis:
   - title: Some INI
     desc: Die machen was cooles
     picture:
-    email: 
+    email:
     link:
   - title: Another INI
     desc: Ist auch was tolles, was die machen
