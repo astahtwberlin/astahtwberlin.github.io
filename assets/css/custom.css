@@ -31,6 +31,15 @@
   background: #fff;
 }
 
+.btn-primary {
+    background-color: #76B900;
+    border-color: transparent;
+}
+
+.btn-primary:hover {
+    border-color: #76B900;
+}
+
 hr {
   border: 1px solid lightgrey;
   border-radius: 5px;
