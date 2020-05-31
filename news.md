@@ -8,4 +8,4 @@ image: Abb4
 ---
 Folgt uns auf unseren Social Media - Accounts und seid immer up to date!
 
-    <div style= color: rgb(255, 0, 0);"> <p> WAHLEN KOMMEN, MACHT EUCH BEREIT!!! </p>
+    
