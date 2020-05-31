@@ -1,11 +1,12 @@
 <section>
   <section class="site-section" id="section-hdt">
     <div class="container">
-      <div class="row">
-        <div class="section-heading text-white text-center col-md-12">
-          <h2 class="text-white">Haus der <strong>Transformation</strong></h2>
-          <p class="lead">Untertitel</p>
-          <p>text</p>
+      <div class="row justify-content-center">
+        <div class="section-heading text-white text-center col-md-10">
+          <h2 class="text-white mb-5">Haus der <strong>Transformation</strong></h2>
+          {% include card_top.html %}
+          <p>{{ site.data.campusleben.hdt.text }}</p>
+          {% include card_bottom.html %}
         </div>
       </div>
     </div>

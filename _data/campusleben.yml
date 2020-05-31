@@ -1,4 +1,6 @@
 ---
+stupa:
+  text: 'Text zum Stupa und so...'
 fachschaften:
 - title: FSRe
   desc: Vertritt die Interessen der Studierenden im Fachbereich 1
@@ -25,6 +27,37 @@ fachschaften:
   picture: FSR5_square.jpg
   email: dunno
   link: some website
+hochschulgremien:
+- title: Fachbereichsrat 1
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
+- title: Fachbereichsrat 2
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
+- title: Fachbereichsrat 3
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
+- title: Fachbereichsrat 4
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
+- title: Fachbereichsrat 5
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
+- title: Akademischer Senat
+  desc: bla bla
+  picture:
+  email: dunno
+  link: some website
 inis:
 - title: Some INI
   desc: Die machen was cooles
@@ -40,4 +73,6 @@ inis:
   desc: Die machen noch was anderes
   picture: 
   email: 
-  link: 
+  link:
+hdt:
+  text: 'Noch mehr Text...'
