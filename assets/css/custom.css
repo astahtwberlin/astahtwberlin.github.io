@@ -5,6 +5,10 @@
     text-align: center;
     text-decoration: none;
 }
+.sm {
+    font-size: 30px !important;
+    padding: 0px !important;
+}
 
 .resume-item {
   color: #959ca3;

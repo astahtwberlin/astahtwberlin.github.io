@@ -4,92 +4,170 @@ referate:
   section: finanzen
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Finanzen 1'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
   - name: ''
-    mail: ''
+    mailbetreff: 'Finanzen 2'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
   - name: Emily Sindakowski
-    mail: asta.htw.students@gmail.com
+    mailbetreff: 'Finanzen 3'
     picture: referatsbilder.png
     desc: „Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig
       und kümmere mich um eure Abrechnungen und Vorschüsse, für fragen stehe ich gerne
       über unsere Mailadresse zur Verfügung."
     position: Finanzen 1
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Soziales
   section: soziales
   members:
   - name: Gesucht!
-    mail: ''
+    mailbetreff: 'Soziales 1'
     picture: unknown.png
     desc: ''
     position: 'Soziales 1 '
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
   - name: ''
-    mail: ''
+    mailbetreff: 'Soziales 2'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Hochschulpolitik'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Öffentlichkeitsarbeit 1'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
   - name: ''
-    mail: ''
+    mailbetreff: 'Öffentlichkeitsarbeit 2'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Kultur
   section: kultur
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Kultur'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Hochschulgremien
   section: hochschulgremien
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Hochschulgremien'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Internationales
   section: internationales
   members:
   - name: ''
-    mail: ''
+    mailbetreff: 'Internationales'
     picture: placeholder_square.jpg
     desc: ''
     position: ''
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
   - name: 'Gesucht! '
-    mail: ''
+    mailbetreff: 'Nachhaltigkeit 1'
     picture: unknown.png
     desc: ''
-    position: 'Nachhaltigkeit 1 '
+    position: 'Nachhaltigkeit 1'
+    social:
+      facebook:
+      twitter:
+      instagram:
+      linkedin:
+      xing:
   - name: Anna Reichardt
-    mail: asta.htw.students@gmail.com
+    mailbetreff: 'Nachhaltigkeit 2'
     picture: anna_n2.png
     desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,
       damit es wieder läuft: Konzeptionierung AStA - Webseite, Ehrenamtskoordination
       & -auszeichnung'
     position: 'Nachhaltigkeit 2 - Qualitätssicherung des studentischen Ehrenamtes '
+    social:
+      facebook:
+      twitter:
+      instagram: https://www.instagram.com/stilleaktivistin/
+      linkedin: https://www.linkedin.com/in/25071990/
+      xing:

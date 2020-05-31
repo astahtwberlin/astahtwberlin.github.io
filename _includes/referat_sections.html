@@ -15,15 +15,28 @@
 
           {% for member in referat.members %}
 
-            <div class="card m-3 pb-3" style="width: 300px; height: 625px; border: 1px solid lightgray">
+            <div class="card m-3 pb-3" style="width: 300px; height: 700px; border: 1px solid lightgray">
               <img class="card-img-top m-0 p-0" src="assets/images/{{ member.picture }}">
                 <div class="card-body text-center d-flex flex-column m-0 p-0">
                   <h5 class="card-title mt-3" id="text-event-card">{{ member.name }}</h5>
                   {% if member.position %}
                     <p class="card-text" style="text-transform: uppercase; color: #76B900; font-weight: bold;">{{member.position}}</p>
                   {% endif %}
+                  <hr class="mt-0 pt-0 w-50"/>
+                  <p class="card-text">
+                    {% if member.social.facebook %}<a href="{{ member.social.facebook }}" target="_blank" class="fa sm fa-facebook"></a>
+                    {% endif %}
+                    {% if member.social.twitter %}<a href="{{ member.social.twitter }}" target="_blank" class="fa sm fa-twitter"></a>
+                    {% endif %}
+                    {% if member.social.instagram %}<a href="{{ member.social.instagram }}" target="_blank" class="fa sm fa-instagram"></a>
+                    {% endif %}
+                    {% if member.social.linkedin %}<a href="{{ member.social.linkedin }}" target="_blank" class="fa sm fa-linkedin"></a>
+                    {% endif %}
+                    {% if member.social.xing %}<a href="{{ member.social.xing }}" target="_blank" class="fa sm fa-xing"></a>
+                    {% endif %}
+                  </p>
                   <p class="card-text">{{ member.desc }}</p>
-                  <a href="mailto:{{ member.email }}" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Mail schreiben</a>
+                  <a href="mailto:{{ site.data.infos.kontakt.email }}?subject=[{{ member.mailbetreff }}]" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Schreib mir</a>
                 </div>
                 <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
 
