@@ -4,170 +4,170 @@ referate:
   section: finanzen
   members:
   - name: ''
-    mailbetreff: 'Finanzen 1'
+    mailbetreff: Finanzen 1
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
   - name: ''
-    mailbetreff: 'Finanzen 2'
+    mailbetreff: Finanzen 2
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
   - name: Emily Sindakowski
-    mailbetreff: 'Finanzen 3'
+    mailbetreff: Finanzen 3
     picture: unknown.png
     desc: „Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig
       und kümmere mich um eure Abrechnungen und Vorschüsse, für fragen stehe ich gerne
       über unsere Mailadresse zur Verfügung."
     position: Finanzen 1
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Soziales
   section: soziales
   members:
-  - name: Gesucht!
-    mailbetreff: 'Soziales 1'
+  - name: Stefanie D.
+    mailbetreff: Soziales 1
     picture: unknown.png
     desc: ''
     position: 'Soziales 1 '
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
   - name: ''
-    mailbetreff: 'Soziales 2'
+    mailbetreff: Soziales 2
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
   - name: ''
-    mailbetreff: 'Hochschulpolitik'
+    mailbetreff: Hochschulpolitik
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
   - name: ''
-    mailbetreff: 'Öffentlichkeitsarbeit 1'
+    mailbetreff: Öffentlichkeitsarbeit 1
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
   - name: ''
-    mailbetreff: 'Öffentlichkeitsarbeit 2'
+    mailbetreff: Öffentlichkeitsarbeit 2
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Kultur
   section: kultur
   members:
   - name: ''
-    mailbetreff: 'Kultur'
+    mailbetreff: Kultur
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Hochschulgremien
   section: hochschulgremien
   members:
   - name: ''
-    mailbetreff: 'Hochschulgremien'
+    mailbetreff: Hochschulgremien
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Internationales
   section: internationales
   members:
   - name: ''
-    mailbetreff: 'Internationales'
+    mailbetreff: Internationales
     picture: placeholder_square.jpg
     desc: ''
     position: ''
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
   - name: 'Gesucht! '
-    mailbetreff: 'Nachhaltigkeit 1'
+    mailbetreff: Nachhaltigkeit 1
     picture: unknown.png
     desc: ''
-    position: 'Nachhaltigkeit 1'
+    position: Nachhaltigkeit 1
     social:
-      facebook:
-      twitter:
-      instagram:
-      linkedin:
-      xing:
+      facebook: 
+      twitter: 
+      instagram: 
+      linkedin: 
+      xing: 
   - name: Anna Reichardt
-    mailbetreff: 'Nachhaltigkeit 2'
+    mailbetreff: Nachhaltigkeit 2
     picture: anna_n2.png
     desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,
       damit es wieder läuft: Konzeptionierung AStA - Webseite, Ehrenamtskoordination
       & -auszeichnung'
     position: 'Nachhaltigkeit 2 - Qualitätssicherung des studentischen Ehrenamtes '
     social:
-      facebook:
-      twitter:
+      facebook: 
+      twitter: 
       instagram: https://www.instagram.com/stilleaktivistin/
       linkedin: https://www.linkedin.com/in/25071990/
-      xing:
+      xing: 
