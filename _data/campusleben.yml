@@ -1,6 +1,8 @@
 ---
 stupa:
   text: 'Text zum Stupa und so...'
+  mail: stupa.students.htw@gmail.com
+  webseite: https://www.students-htw.de/en/gremien/stupa.html
 fachschaften:
   text: 'Fachschaften text...'
   infos:
@@ -51,3 +53,4 @@ inis:
     link:
 hdt:
   text: 'Noch mehr Text...'
+  mail:
