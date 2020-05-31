@@ -81,14 +81,14 @@ referate:
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
-  - name: 'Gesucht! '
+  - name: "?"
     mail: ''
-    picture: Referatsbilder.png
+    picture: placeholder_square.jpg
     desc: ''
     position: 'Nachhaltigkeit 1 '
   - name: Anna Reichardt
     mail: asta.htw.students@gmail.com
-    picture: referatsbild_annareichardt.png
+    picture: 'referatsbild_annareichardt.png '
     desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - weil ich weiß, wie es
       sein sollte, wenn es läuft. Initiatorin: AStA - Webseite, Ehrenamtskoordination
       & -auszeichnung'
