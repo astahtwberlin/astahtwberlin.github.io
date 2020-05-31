@@ -21,16 +21,21 @@
                   {% endif %}
                   <hr class="mt-0 pt-0 w-50"/>
                   <p class="card-text">
-                    {% if member.social.facebook %}<a href="{{ member.social.facebook }}" target="_blank" class="fa sm fa-facebook"></a>
-                    {% endif %}
-                    {% if member.social.twitter %}<a href="{{ member.social.twitter }}" target="_blank" class="fa sm fa-twitter"></a>
-                    {% endif %}
-                    {% if member.social.instagram %}<a href="{{ member.social.instagram }}" target="_blank" class="fa sm fa-instagram"></a>
-                    {% endif %}
-                    {% if member.social.linkedin %}<a href="{{ member.social.linkedin }}" target="_blank" class="fa sm fa-linkedin"></a>
-                    {% endif %}
-                    {% if member.social.xing %}<a href="{{ member.social.xing }}" target="_blank" class="fa sm fa-xing"></a>
-                    {% endif %}
+                    {% if member.social.facebook %}{% if member.social.facebook != '' %}
+                    <a href="{{ member.social.facebook }}" target="_blank" class="fa sm fa-facebook"></a>
+                    {% endif %}{% endif %}
+                    {% if member.social.twitter %}{% if member.social.twitter != '' %}
+                    <a href="{{ member.social.twitter }}" target="_blank" class="fa sm fa-twitter"></a>
+                    {% endif %}{% endif %}
+                    {% if member.social.instagram %}{% if member.social.instagram != '' %}
+                    <a href="{{ member.social.instagram }}" target="_blank" class="fa sm fa-instagram"></a>
+                    {% endif %}{% endif %}
+                    {% if member.social.linkedin %}{% if member.social.linkedin != '' %}
+                    <a href="{{ member.social.linkedin }}" target="_blank" class="fa sm fa-linkedin"></a>
+                    {% endif %}{% endif %}
+                    {% if member.social.xing %}{% if member.social.xing != '' %}
+                    <a href="{{ member.social.xing }}" target="_blank" class="fa sm fa-xing"></a>
+                    {% endif %}{% endif %}
                   </p>
                   <p class="card-text pl-1 pr-1">{{ member.desc }}</p>
                   <a href="mailto:{{ site.data.infos.kontakt.email }}?subject=[{{ member.mailbetreff }}]" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Schreib mir</a>
