@@ -1,14 +1,23 @@
 <section>
   <section class="site-section" id="section-inis">
     <div class="container">
+      <div class="row justify-content-center">
+        <div class="section-heading text-white text-center col-md-10">
+          <h2 class="text-white mb-5"><strong>INIs </strong>& Co.</h2>
+          {%if site.data.campusleben.inis.text %}
+          {% include card_top.html %}
+          <p>{{ site.data.campusleben.inis.text }}</p>
+          {% include card_bottom.html %}
+          {%endif%}
+        </div>
+      </div>
       <div class="row">
         <div class="section-heading text-center col-md-12">
-          <h2 class="mb-5 text-white"><strong>INIs</strong> & Co.</h2>
 
           <div class="container">
             <div class="row justify-content-center">
 
-              {% for ini in site.data.campusleben.inis %}
+              {% for ini in site.data.campusleben.inis.infos %}
 
               <!-- adapted from https://bootsnipp.com/snippets/AXnRg -->
               <!-- manual-flip -->

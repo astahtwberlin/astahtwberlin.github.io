@@ -1,14 +1,23 @@
 <section>
   <section class="site-section" id="section-fachschaften">
     <div class="container">
+      <div class="row justify-content-center">
+        <div class="section-heading text-white text-center col-md-10">
+          <h2 class="text-white mb-5"><strong>Fachschafts</strong>räte</h2>
+          {% if site.data.campusleben.fachschaften.text %}
+            {% include card_top.html %}
+            <p>{{ site.data.campusleben.fachschaften.text }}</p>
+            {% include card_bottom.html %}
+          {% endif %}
+        </div>
+      </div>
       <div class="row">
         <div class="section-heading text-center col-md-12">
-          <h2 class="mb-5 text-white"><strong>Fachschafts</strong>räte</h2>
 
           <div class="container">
             <div class="row justify-content-center">
 
-              {% for gremium in site.data.campusleben.fachschaften %}
+              {% for gremium in site.data.campusleben.fachschaften.infos %}
 
               <!-- adapted from https://bootsnipp.com/snippets/AXnRg -->
               <!-- manual-flip -->

@@ -15,7 +15,7 @@ navigation:
     subfolderitems:
     - page: Übersicht
       url: "/campusleben"
-    - page: StuPa
+    - page: Studierenden Parlament
       url: "/campusleben#section-stupa"
     - page: Fachschaftsräte
       url: "/campusleben#section-fachschaften"
