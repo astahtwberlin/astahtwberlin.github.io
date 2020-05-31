@@ -16,9 +16,9 @@
 .button-refarate {
   width: 270px !important;
   radius: 30%;
-  background-color: rgba(255, 255, 255, 0.5) !important;
+  background-color: rgba(255, 255, 255, .9) !important;
   border: 3px solid rgba(255, 255, 255, 1) !important;
-  color: rgba(50, 50, 50, 1) !important;
+  color: rgba(50, 50, 50, .9) !important;
   margin: 5px !important;
   margin-bottom: 15px !important;
   padding: 5px !important;
