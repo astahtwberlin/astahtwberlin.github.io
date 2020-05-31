@@ -6,8 +6,4 @@ title_thin:
 image: Abb4
 
 ---
-Demnächst folgen hier die Updates aus Facebook, Instagram und Twitter!
-
-Folgt uns und seid immer up to date!
-
-    
+Folgt uns auf unseren Social Media - Accounts und seid immer up to date!
