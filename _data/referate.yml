@@ -80,16 +80,16 @@ referate:
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
-  - name: ''
+  - name: 'Jan Heilman '
     mailbetreff: Öffentlichkeitsarbeit 1
-    picture: placeholder_square.jpg
-    desc: ''
-    position: ''
+    picture: unknown.png
+    desc: '"Words and Ideas can change the World" - John Keating'
+    position: 'Öffentlichkeitsarbeit 1: Social Media Management '
     social:
       facebook: 
       twitter: 
-      instagram: 
-      linkedin: 
+      instagram: instagram.com/habwollend/
+      linkedin: https://habwollend.de/
       xing: 
   - name: ''
     mailbetreff: Öffentlichkeitsarbeit 2
