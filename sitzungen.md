@@ -8,6 +8,6 @@ image: Abb6
 ---
 Wir treffen uns derzeit wöchentlich immer dienstags um 18 Uhr über BigBlueButton!
 
-Kommt gerne vorbei zur [https://app.forestry.io/sites/8tjqodgsqxkmsg/](https://app.forestry.io/sites/8tjqodgsqxkmsg/ "Online-Sitzung über BigBlueButton")!
+Kommt gerne vorbei zur [Online-Sitzung über BigBlueButton](https://moodle.htw-berlin.de/course/view.php?id=27478)!
 
 Protokolle aus unseren vergangenen Sitzungen folgen Ende Juni.
