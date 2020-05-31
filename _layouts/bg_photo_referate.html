@@ -2,17 +2,20 @@
 layout: main
 ---
 
-{% include bg_photo_nocard_top.html %}
+{% include bg_photo_top.html %}
 {{ content }}
-<h3 class="mb-3 text-white">Vorstand</h3>
+<div class="section-heading text-center">
+<h2 class="mb-3 text-white">Vorstand</h2>
+</div>
 <div class="mt-4">
   {% for vorstand in site.data.vorstand.vorstand %}
   <a href="#section-{{ vorstand.referat }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ vorstand.title }}</a>
   {% endfor %}
 </div>
 <hr class="w-50"/>
-
-<h3 class="text-white">Referate</h3>
+<div class="section-heading text-center">
+<h2 class="text-white">Referate</h2>
+</div>
 <div class="mt-4">
   {% for referat in site.data.referate.referate %}
   <a href="#section-{{ referat.section }}" class="card-link smoothscroll m-1 btn btn-primary button-refarate px-3 py-1">{{ referat.title }}</a>
@@ -23,5 +26,5 @@ layout: main
 
 {% include referat_sections.html %}
 
-{% include bg_photo_nocard_bottom.html %}
+{% include bg_photo_bottom.html %}
 

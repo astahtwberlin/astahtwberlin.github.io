@@ -15,8 +15,12 @@ navigation:
     subfolderitems:
     - page: Übersicht
       url: "/campusleben"
-    - page: Fachschaften
+    - page: StuPa
+      url: "/campusleben#section-stupa"
+    - page: Fachschaftsräte
       url: "/campusleben#section-fachschaften"
+    - page: Hochschulgremien
+      url: "/campusleben#section-hochschulgremien"
     - page: INIs & Co.
       url: "/campusleben#section-inis"
     - page: Haus der Transformation
