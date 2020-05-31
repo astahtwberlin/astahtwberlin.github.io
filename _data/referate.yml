@@ -94,13 +94,13 @@ referate:
   - name: Fiona H.
     mailbetreff: Öffentlichkeitsarbeit 2
     picture: fiona_pr2.jpeg
-    desc: ''
+    desc: Put colors to you life! :)
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
     social:
       facebook: 
       twitter: 
-      instagram: 
-      linkedin: 
+      instagram: https://www.instagram.com/hoti.fiona/
+      linkedin: ''
       xing: 
 - title: Kultur
   section: kultur
