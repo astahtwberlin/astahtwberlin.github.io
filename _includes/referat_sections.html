@@ -2,20 +2,17 @@
 <section>
   <section class="site-section" id="section-{{ referat.section }}">
     <div class="container">
-      <div class="row">
-        <div class="section-heading text-center col-md-12">
-          <h2><strong>{{ referat.title }}</strong></h2>
+
+        <div class="section-heading text-center col-md-12 h-auto">
+          <h2 class="text-white"><strong>{{ referat.title }}</strong></h2>
           <p class="lead"></p>
         </div>
-      </div>
 
 
-      <div class="container">
         <div class="row justify-content-center">
 
           {% for member in referat.members %}
-
-            <div class="card m-3 pb-3" style="width: 300px; height: 700px; border: 1px solid lightgray">
+            <div class="card m-3 pb-3" style="width: 300px; height: 750px; border: 1px solid lightgray">
               <img class="card-img-top m-0 p-0" src="assets/images/{{ member.picture }}">
                 <div class="card-body text-center d-flex flex-column m-0 p-0">
                   <h5 class="card-title mt-3" id="text-event-card">{{ member.name }}</h5>
@@ -35,17 +32,15 @@
                     {% if member.social.xing %}<a href="{{ member.social.xing }}" target="_blank" class="fa sm fa-xing"></a>
                     {% endif %}
                   </p>
-                  <p class="card-text">{{ member.desc }}</p>
+                  <p class="card-text pl-1 pr-1">{{ member.desc }}</p>
                   <a href="mailto:{{ site.data.infos.kontakt.email }}?subject=[{{ member.mailbetreff }}]" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Schreib mir</a>
                 </div>
                 <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
-
             </div>
           {% endfor %}
 
 
         </div>
-      </div>
     </div>
   </section>
 </section>

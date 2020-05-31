@@ -197,10 +197,9 @@ a {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  overflow: hidden; }
+  overflow: scroll; }
   .site-hero, .site-hero .row {
-    height: 100vh;
-    min-height: 800px; }
+    height: auto; }
   .site-hero:before {
     content: "";
     position: absolute;
