@@ -5,17 +5,17 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
   - name: Emily Sindakowski
     mail: asta.htw.students@gmail.com
-    picture: "referatsbilder.png"
+    picture: referatsbilder.png
     desc: „Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig
       und kümmere mich um eure Abrechnungen und Vorschüsse, für fragen stehe ich gerne
       über unsere Mailadresse zur Verfügung."
@@ -25,12 +25,12 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Hochschulpolitik
@@ -38,7 +38,7 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Öffentlichkeitsarbeit
@@ -46,12 +46,12 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Kultur
@@ -59,7 +59,7 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Hochschulgremien
@@ -67,7 +67,7 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Internationales
@@ -75,7 +75,7 @@ referate:
   members:
   - name: ''
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: ''
 - title: Nachhaltigkeit
@@ -83,11 +83,13 @@ referate:
   members:
   - name: "?"
     mail: ''
-    picture: 'placeholder_square.jpg'
+    picture: placeholder_square.jpg
     desc: ''
     position: 'Nachhaltigkeit 1 '
   - name: Anna Reichardt
     mail: asta.htw.students@gmail.com
-    picture: "referatsbild_annareichardt.png"
-    desc: ''
-    position: Nachhaltigkeit 2
+    picture: referatsbild_annareichardt.png
+    desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - weil ich weiß, wie es
+      sein sollte, wenn es läuft. Initiatorin: AStA - Webseite, Ehrenamtskoordination
+      & -auszeichnung'
+    position: 'Qualitätssicherung des studentischen Ehrenamtes '
