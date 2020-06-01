@@ -59,7 +59,7 @@ referate:
   - name: Kira R.
     mail: asta.htw.students@gmail.com
     mailbetreff: Soziales 2
-    picture: placeholder_square.jpg
+    picture: kira_s2.png
     desc: ''
     position: Soziales 2
     social:
@@ -71,12 +71,12 @@ referate:
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
-  - name: ''
-    mail:
+  - name: Paul P.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulpolitik
-    picture: ''
+    picture: paul_hopo.png
     desc: ''
-    position: ''
+    position: Hochschulpolitik
     social:
       facebook: 
       twitter: 
@@ -89,7 +89,7 @@ referate:
   - name: 'Jan Heilman '
     mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
-    picture: unknown.png
+    picture: pr1.png
     desc: '"Words and Ideas can change the World" - John Keating'
     position: 'Öffentlichkeitsarbeit 1: Social Media Management '
     social:
@@ -128,12 +128,12 @@ referate:
 - title: Hochschulgremien
   section: hochschulgremien
   members:
-  - name: ''
-    mail:
+  - name: Samuel N.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
-    picture: placeholder_square.jpg
+    picture: samu_hg.png
     desc: ''
-    position: ''
+    position: Hochschulgremien
     social:
       facebook: 
       twitter: 
@@ -143,12 +143,12 @@ referate:
 - title: Internationales
   section: internationales
   members:
-  - name: ''
-    mail:
+  - name: Ahmed H.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Internationales
-    picture: placeholder_square.jpg
+    picture: max_international.png
     desc: ''
-    position: ''
+    position: Internationales
     social:
       facebook: 
       twitter: 
