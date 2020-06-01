@@ -4,6 +4,7 @@ referate:
   section: finanzen
   members:
   - name: 'Daniel "Teps" T. '
+    mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 1
     picture: unknown.png
     desc: ''
@@ -15,6 +16,7 @@ referate:
       linkedin: 
       xing: 
   - name: Emily Sindakowski
+    mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
     picture: unknown.png
     desc: „Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig
@@ -28,6 +30,7 @@ referate:
       linkedin: 
       xing: 
   - name: 'Gesucht! '
+    mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 3
     picture: unknown.png
     desc: ''
@@ -42,6 +45,7 @@ referate:
   section: soziales
   members:
   - name: Stefanie D.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Soziales 1
     picture: unknown.png
     desc: ''
@@ -53,6 +57,7 @@ referate:
       linkedin: 
       xing: 
   - name: Kira R.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Soziales 2
     picture: placeholder_square.jpg
     desc: ''
@@ -67,6 +72,7 @@ referate:
   section: hochschulpolitik
   members:
   - name: ''
+    mail:
     mailbetreff: Hochschulpolitik
     picture: ''
     desc: ''
@@ -81,6 +87,7 @@ referate:
   section: oeffentlichkeitsarbeit
   members:
   - name: 'Jan Heilman '
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
     picture: unknown.png
     desc: '"Words and Ideas can change the World" - John Keating'
@@ -92,6 +99,7 @@ referate:
       linkedin: https://habwollend.de/
       xing: 
   - name: Fiona H.
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 2
     picture: fiona_pr2.jpeg
     desc: Put colors to you life! :)
@@ -106,6 +114,7 @@ referate:
   section: kultur
   members:
   - name: ''
+    mail:
     mailbetreff: Kultur
     picture: placeholder_square.jpg
     desc: ''
@@ -120,6 +129,7 @@ referate:
   section: hochschulgremien
   members:
   - name: ''
+    mail:
     mailbetreff: Hochschulgremien
     picture: placeholder_square.jpg
     desc: ''
@@ -134,6 +144,7 @@ referate:
   section: internationales
   members:
   - name: ''
+    mail:
     mailbetreff: Internationales
     picture: placeholder_square.jpg
     desc: ''
@@ -148,6 +159,7 @@ referate:
   section: nachhaltigkeit
   members:
   - name: 'Gesucht! '
+    mail:
     mailbetreff: Nachhaltigkeit 1
     picture: unknown.png
     desc: ''
@@ -159,6 +171,7 @@ referate:
       linkedin: 
       xing: 
   - name: Anna Reichardt
+    mail: asta.htw.students@gmail.com
     mailbetreff: Nachhaltigkeit 2
     picture: anna_n2.png
     desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,

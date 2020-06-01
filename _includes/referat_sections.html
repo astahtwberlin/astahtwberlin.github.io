@@ -38,7 +38,7 @@
                     {% endif %}{% endif %}
                   </p>
                   <p class="card-text pl-1 pr-1">{{ member.desc }}</p>
-                  <a href="mailto:{{ site.data.infos.kontakt.email }}?subject=[{{ member.mailbetreff }}]" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Schreib mir</a>
+                  <a href="mailto:{{ member.mail }}?subject=[AStA%20Webseite%20{{ member.mailbetreff }}]" class="btn btn-primary mt-auto mb-1 py-0 mx-3">Schreib mir</a>
                 </div>
                 <!--<div class="footer"><button class="btn btn-simple" rel="tooltip" title="Flip Card" onclick="rotateCard(this)"><i class="fa fa-reply"></i> Back</button></div>-->
             </div>
