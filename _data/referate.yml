@@ -114,7 +114,7 @@ referate:
   section: kultur
   members:
   - name: ''
-    mail:
+    mail: 
     mailbetreff: Kultur
     picture: placeholder_square.jpg
     desc: ''
@@ -128,10 +128,10 @@ referate:
 - title: Hochschulgremien
   section: hochschulgremien
   members:
-  - name: Samuel N.
+  - name: Samuel Nazarenus
     mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
-    picture: samu_hg.png
+    picture: samuel_hg.png
     desc: ''
     position: Hochschulgremien
     social:
@@ -159,7 +159,7 @@ referate:
   section: nachhaltigkeit
   members:
   - name: 'Gesucht! '
-    mail:
+    mail: 
     mailbetreff: Nachhaltigkeit 1
     picture: unknown.png
     desc: ''
