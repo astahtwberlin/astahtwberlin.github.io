@@ -10,6 +10,6 @@ image: Abb5
 
 Falls ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, könnt ihr euch mit der Bitte um Rat und Hilfe an uns wenden.
 
-[Hier](https://discord.gg/jm3XbGW) gehts zum AStA HTW Berlin Discord Server!
+[Hier](https://discord.gg/jm3XbGW) gehts zum AStA HTW Berlin Discord Server! 
 
 ![](/assets/images/image-2020-06-02-16-47-17.jpg)
