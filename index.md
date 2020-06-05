@@ -1,8 +1,8 @@
 ---
-layout: bg_photo_temp
+layout: bg_photo_button
 title_strong: AStA
 title_thin: " der HTW Berlin"
 image: Abb1
 
 ---
-**Diese Seite befindet sich noch im Aufbau!** 
+Meilensteine Text und so...
