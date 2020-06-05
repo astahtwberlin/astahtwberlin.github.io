@@ -15,7 +15,7 @@ referate:
       instagram: 
       linkedin: 
       xing: 
-  - name: Emily Sindakowski
+  - name: Emily S.
     mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
     picture: unknown.png
@@ -89,7 +89,7 @@ referate:
   - name: 'Jan Heilman '
     mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
-    picture: pr1.png
+    picture: jan_pr1.jpg
     desc: '"Words and Ideas can change the World" - John Keating'
     position: 'Öffentlichkeitsarbeit 1: Social Media Management '
     social:
@@ -113,12 +113,12 @@ referate:
 - title: Kultur
   section: kultur
   members:
-  - name: ''
-    mail:
+  - name: Liia TZ
+    mail: asta.htw.students@gmail.com
     mailbetreff: Kultur
-    picture: placeholder_square.jpg
+    picture: unknown.png
     desc: ''
-    position: ''
+    position: Kulturmanagment & 1. Stellv. Vorsitz
     social:
       facebook: 
       twitter: 
@@ -128,10 +128,10 @@ referate:
 - title: Hochschulgremien
   section: hochschulgremien
   members:
-  - name: Samuel N.
+  - name: Samuel Nazarenus
     mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
-    picture: samu_hg.png
+    picture: samuel_hg.png
     desc: ''
     position: Hochschulgremien
     social:
@@ -159,7 +159,7 @@ referate:
   section: nachhaltigkeit
   members:
   - name: 'Gesucht! '
-    mail:
+    mail: 
     mailbetreff: Nachhaltigkeit 1
     picture: unknown.png
     desc: ''
