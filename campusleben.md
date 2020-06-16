@@ -1,8 +1,8 @@
 ---
 layout: bg_photo_campuslife
 permalink: campusleben
-title_strong: Campus
-title_thin: leben
+title_strong: Gremien
+title_thin: wahlen
 image: Abb7
 
 ---
