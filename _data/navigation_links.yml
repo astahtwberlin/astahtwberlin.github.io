@@ -13,7 +13,7 @@ navigation:
   - title: Campusleben
     url: "/campusleben"
     subfolderitems:
-    - page: Übersicht
+    - page: Gremienwahlen
       url: "/campusleben"
     - page: Studierendenparlament
       url: "/campusleben#section-stupa"
