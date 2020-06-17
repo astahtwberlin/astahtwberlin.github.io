@@ -158,7 +158,7 @@ referate:
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
-  - name: 'Gesucht! '
+  - name: 'Salim '
     mail: 
     mailbetreff: Nachhaltigkeit 1
     picture: unknown.png
@@ -174,10 +174,9 @@ referate:
     mail: asta.htw.students@gmail.com
     mailbetreff: Nachhaltigkeit 2
     picture: anna_n2.png
-    desc: 'Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,
-      damit es wieder läuft: Konzeptionierung AStA - Webseite, Ehrenamtskoordination
-      & -auszeichnung'
-    position: 'Nachhaltigkeit 2: Qualitätssicherung des studentischen Ehrenamtes '
+    desc: Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,
+      damit es wieder läuft.
+    position: 'Nachhaltigkeit 2: Sicherung des studentischen Ehrenamtes '
     social:
       facebook: 
       twitter: 
