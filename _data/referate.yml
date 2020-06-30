@@ -157,17 +157,4 @@ referate:
       xing: 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
-  members:
-  - name: Anna Reichardt
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Nachhaltigkeit 2
-    picture: anna_n2.png
-    desc: Ich weiß, woran es liegt, wenn was nicht läuft - und weiß, was zu tun ist,
-      damit es wieder läuft.
-    position: 'Sicherung des studentischen Ehrenamtes '
-    social:
-      facebook: 
-      twitter: 
-      instagram: https://www.instagram.com/stilleaktivistin/
-      linkedin: https://www.linkedin.com/in/25071990/
-      xing: 
+  members: []
