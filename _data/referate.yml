@@ -1,29 +1,12 @@
 ---
 referate:
-- title: Soziales
-  section: soziales
-  members:
-  - name: Benjamin Reichel
-    mail: ''
-    mailbetreff: ''
-    picture: ''
-    desc: ''
-    position: ''
-    social: ''
 - title: Finanzen
   section: finanzen
   members:
   - name: Annabella E.
     mail: ''
     mailbetreff: ''
-    picture: ''
-    desc: ''
-    position: ''
-    social: ''
-  - name: Jessica V.
-    mail: ''
-    mailbetreff: ''
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: ''
     social: ''
@@ -41,16 +24,40 @@ referate:
       instagram: 
       linkedin: 
       xing: 
+  - name: Jessica V.
+    mail: ''
+    mailbetreff: ''
+    picture: unknown.png
+    desc: ''
+    position: ''
+    social: ''
+- title: Soziales
+  section: soziales
+  members:
+  - name: Benjamin R.
+    mail: ''
+    mailbetreff: ''
+    picture: unknown.png
+    desc: ''
+    position: ''
+    social: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
-  members: []
+  members:
+  - name: 'Stefanie D. '
+    mail: ''
+    mailbetreff: ''
+    picture: unknown.png
+    desc: ''
+    position: ''
+    social: ''
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
-  - name: 'Jan Heilman '
+  - name: 'Jan H. '
     mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
-    picture: jan_pr1.jpg
+    picture: unknown.png
     desc: '"Words and Ideas can change the World" - John Keating'
     position: 'Öffentlichkeitsarbeit 1: Social Media Management '
     social:
@@ -62,7 +69,7 @@ referate:
   - name: Fiona H.
     mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 2
-    picture: fiona_pr2.jpeg
+    picture: unknown.png
     desc: Put colors to you life! :)
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
     social:
@@ -88,7 +95,14 @@ referate:
       xing: 
 - title: Hochschulgremien
   section: hochschulgremien
-  members: []
+  members:
+  - name: Felix K.
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
 - title: Internationales
   section: internationales
   members:
@@ -107,16 +121,16 @@ referate:
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
-  - name: Carolina Track
-    mail: ''
+  - name: Salim A.
     mailbetreff: ''
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: ''
     social: ''
-  - name: Salim Alkhodor
+  - name: Carolina T.
+    mail: ''
     mailbetreff: ''
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: ''
     social: ''
