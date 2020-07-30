@@ -98,11 +98,11 @@ referate:
   section: hochschulgremien
   members:
   - name: Felix K.
-    mail: ''
-    mailbetreff: ''
+    mail: asta-gremien@students-htw.de
+    mailbetreff: Hochschulgremien
     picture: ''
     desc: ''
-    position: ''
+    position: Hochschulgremien
     social: ''
 - title: Internationales
   section: internationales
