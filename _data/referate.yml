@@ -1,16 +1,26 @@
 ---
 referate:
-- title: Finanzen
-  section: finanzen
+- title: Soziales
+  section: soziales
   members:
-  - name: Annabella Eichelkraut
+  - name: Benjamin Reichel
     mail: ''
     mailbetreff: ''
     picture: ''
     desc: ''
     position: ''
     social: ''
-  - name: Jessica Verhoef
+- title: Finanzen
+  section: finanzen
+  members:
+  - name: Annabella E.
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
+  - name: Jessica V.
     mail: ''
     mailbetreff: ''
     picture: ''
@@ -25,21 +35,6 @@ referate:
       und kümmere mich um eure Abrechnungen und Vorschüsse, für fragen stehe ich gerne
       über unsere Mailadresse zur Verfügung."
     position: Finanzen 2
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
-- title: Soziales
-  section: soziales
-  members:
-  - name: Stefanie D.
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Soziales 1
-    picture: unknown.png
-    desc: ''
-    position: 'Soziales 1 '
     social:
       facebook: 
       twitter: 
