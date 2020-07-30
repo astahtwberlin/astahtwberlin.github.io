@@ -46,8 +46,8 @@ fachschaften:
   - title: FSR5
     desc: Vertritt die Interessen der Studierenden im Fachbereich 5
     picture: FSR5_square.jpg
-    email: dunno
-    link: some website
+    email: fsr5@students-htw.de
+    link: ''
 hochschulgremien:
   text: Hochschulgremien text...
 inis:
