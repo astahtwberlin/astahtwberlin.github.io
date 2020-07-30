@@ -32,33 +32,9 @@ referate:
       instagram: 
       linkedin: 
       xing: 
-  - name: Kira R.
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Soziales 2
-    picture: kira_s2.png
-    desc: ''
-    position: Soziales 2
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
 - title: Hochschulpolitik
   section: hochschulpolitik
-  members:
-  - name: Paul P.
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Hochschulpolitik
-    picture: paul_hopo.png
-    desc: ''
-    position: Hochschulpolitik
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+  members: []
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
@@ -103,19 +79,7 @@ referate:
       xing: 
 - title: Hochschulgremien
   section: hochschulgremien
-  members:
-  - name: Samuel Nazarenus
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Hochschulgremien
-    picture: samuel_hg.png
-    desc: ''
-    position: Hochschulgremien
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+  members: []
 - title: Internationales
   section: internationales
   members:
@@ -133,4 +97,10 @@ referate:
       xing: 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
-  members: []
+  members:
+  - name: Salim Alkhodor
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
