@@ -6,10 +6,10 @@ title_thin: ''
 image: Abb5
 
 ---
-### **Wir beraten euch gerne zu folgenden Themen...**
+    Wir beraten euch gerne zu folgenden Themen...
 
-Falls ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, könnt ihr euch mit der Bitte um Rat und Hilfe an uns wenden.
+    Falls ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, könnt ihr euch mit der Bitte um Rat und Hilfe an uns wenden.
 
-Klickt euch gerne durch unsere Referate!
+    Klickt euch gerne durch unsere Referate!
 
-[Hier](https://discord.gg/jm3XbGW) gehts zum AStA HTW Berlin Discord Server! 
+    Hier gehts zum AStA HTW Berlin Discord Server!
