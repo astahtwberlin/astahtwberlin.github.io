@@ -12,4 +12,4 @@ Falls ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -fi
 
 Klickt euch gerne durch unsere Referate! 
 
-######  Hier gehts zum AStA HTW Berlin-Discord-Server!
+######  [Hier](https://discord.com/invite/B695Bgn) gehts zum AStA HTW Berlin-Discord-Server!
