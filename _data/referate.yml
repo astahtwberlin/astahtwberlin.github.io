@@ -34,11 +34,12 @@ referate:
 - title: Soziales
   section: soziales
   members:
-  - name: Benjamin R.
+  - name: Benjamin Reichel
     mail: asta-soziales1@students-htw.de
     mailbetreff: Soziales 1
-    picture: unknown.png
-    desc: ''
+    picture: fotobenjamin.jpg
+    desc: 'Success is not final, failure is not fatal: it is the courage to continue
+      that counts. - Winston S. Churchill '
     position: Soziales 1
     social: ''
 - title: Hochschulpolitik
