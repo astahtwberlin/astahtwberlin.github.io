@@ -1,4 +1,35 @@
 ---
 label: articles
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: Überschrift des Artikels
+- name: date
+  type: datetime
+  label: date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: Datum des Artikels
+- name: photo
+  type: file
+  config:
+    maxSize: 64
+  label: photo
+  description: 'Optional: Foto für den Artikel'
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+  description: Artikel
