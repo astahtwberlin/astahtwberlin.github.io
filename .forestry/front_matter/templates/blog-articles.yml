@@ -33,3 +33,5 @@ fields:
       format: markdown
   label: content
   description: Inhalt
+pages:
+- _data/news.yml/test.md
