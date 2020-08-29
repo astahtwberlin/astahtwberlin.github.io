@@ -14,5 +14,3 @@ Jedes Gremium ist für das Funktionieren der Hochschule nötig. Es ist wichtig, 
 Wie du sehen wirst, sind die Professoren meist in der Mehrheit. Das heißt allerdings nicht, dass unsere Stimmen kein Gewicht haben. Jeder Abstimmung geht eine Diskussion voraus.  
 Dabei können wir Studierende die anderen Mitglieder eines Gremiums für unsere Meinung begeistern und ihnen die studentische Sichtweise aufzeigen. Oftmals sind Mitarbeiter/innen und Profs froh über unsere Ideen und Anregungen und manche Abstimmung kann so in unserem Sinne beeinflusst werden.  
 Auf diesen Seiten stellen wir dir die Gremien vor.
-
-### 
