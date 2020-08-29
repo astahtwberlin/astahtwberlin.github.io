@@ -81,17 +81,17 @@ inis:
     picture: cafe_kopfbau.jpg
     email: cafe.kopfbau@gmx.de
     link: https://de-de.facebook.com/CafeSuchtTeam/
-  - title: Treslounge
-    desc: Der Treffpunkt für alle Studis an der HTW am Campus Treskowallee!
-    picture: treslounge.jpg
-    email: treslounge@students-htw.de
-    link: https://de-de.facebook.com/Treslounge/
   - title: Urban Garden
     desc: Auf dem Campus Wilhelminenhof wird ab sofort nicht nur eifrig gelernt, sondern
       auch gegärtnert!
     picture: urban_garden.jpg
     email: urban-garden@students-htw.de
     link: https://de-de.facebook.com/urbangarden.htw.berlin/
+  - title: HTW eSports
+    desc: 'Wir sind die Gamer der Hochschule für Technik und Wirtschaft Berlin! '
+    picture: esports.png
+    email: info@htw-esports.de
+    link: https://de-de.facebook.com/htwesports/
 hdt:
   text: 'Das "Haus der Transformation" versteht sich als Plattform innerhalb der HTW
     Berlin, die Studierende, Lehrende, Forschende und Akteur_innen aus Wirtschaft,
