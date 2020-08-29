@@ -13,4 +13,4 @@ Die Studierenden der HTW wählen einmal im Jahr ihre Vertreter/innen in diese Gr
 Jedes Gremium ist für das Funktionieren der Hochschule nötig. Es ist wichtig, dass genügend engagierte Studierende die zur Verfügung stehenden Mandate besetzen, regelmäßig die studentischen Standpunkte in den Sitzungen vertreten und unsere Mitbestimmungsrechte nutzen.  
 Wie du sehen wirst, sind die Professoren meist in der Mehrheit. Das heißt allerdings nicht, dass unsere Stimmen kein Gewicht haben. Jeder Abstimmung geht eine Diskussion voraus.  
 Dabei können wir Studierende die anderen Mitglieder eines Gremiums für unsere Meinung begeistern und ihnen die studentische Sichtweise aufzeigen. Oftmals sind Mitarbeiter/innen und Profs froh über unsere Ideen und Anregungen und manche Abstimmung kann so in unserem Sinne beeinflusst werden.  
-Auf dieser Seite stellen wir dir die Gremien vor.
+Auf dieser Seite stellen wir dir einige der Gremien vor.
