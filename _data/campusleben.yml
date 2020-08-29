@@ -78,9 +78,9 @@ inis:
     desc: Wir sind ein studentisch geführtes Café und versorgen Euch preiswert mit
       Kaffee und anderen Getränken. Ihr könnt hier entspannen, lernen und kickern.
       Kommt vorbei!
-    picture: ''
-    email: 
-    link: 
+    picture: cafe_kopfbau.jpg
+    email: cafe.kopfbau@gmx.de
+    link: https://de-de.facebook.com/CafeSuchtTeam/
   - title: Another INI
     desc: Ist auch was tolles, was die machen
     picture: 
