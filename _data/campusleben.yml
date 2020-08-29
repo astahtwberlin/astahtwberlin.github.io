@@ -74,9 +74,11 @@ inis:
     einem kurzen Gespräch einen Antrag zu Formulieren, welcher dann auf der nächsten
     StuPa Sitzung dann behandelt wird.
   infos:
-  - title: Some INI
-    desc: Die machen was cooles
-    picture: 
+  - title: Café Kopfbau
+    desc: Wir sind ein studentisch geführtes Café und versorgen Euch preiswert mit
+      Kaffee und anderen Getränken. Ihr könnt hier entspannen, lernen und kickern.
+      Kommt vorbei!
+    picture: ''
     email: 
     link: 
   - title: Another INI
