@@ -33,3 +33,5 @@ fields:
       format: markdown
   label: content
   description: Inhalt
+pages:
+- _posts/ldkrnbdb.md
