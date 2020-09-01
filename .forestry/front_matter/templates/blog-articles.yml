@@ -34,4 +34,5 @@ fields:
   label: content
   description: Inhalt
 pages:
+- _posts/2020-08-02-test.md
 - _posts/2020-08-17-ldkrnbdb.md
