@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   templates:
-  - blog-articles
+  - post
 - type: directory
   path: _data
   label: Data
