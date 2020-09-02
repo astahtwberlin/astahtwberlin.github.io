@@ -1,8 +1,6 @@
 ---
 layout: ''
-title: Ein neuer Versuch
+title: Artikel
 
 ---
-text
-
-hehe
+Hier findest du künftig unseren AStA-Blog!
