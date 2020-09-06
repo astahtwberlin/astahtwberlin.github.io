@@ -71,15 +71,11 @@ referate:
   - name: Fiona H.
     mail: asta-pr2@students-htw.de
     mailbetreff: Öffentlichkeitsarbeit 2
-    picture: unknown.png
-    desc: Put colors to you life! :)
+    picture: unknown.jpg
+    desc: Logic will get you from A to B. Imagination will take you everywhere. -
+      Albert Einstein
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
-    social:
-      facebook: 
-      twitter: 
-      instagram: https://www.instagram.com/hoti.fiona
-      linkedin: ''
-      xing: 
+    social: "[object Object]"
 - title: Kultur
   section: kultur
   members:
