@@ -12,6 +12,12 @@ image: Abb7
 
 #### Wo und wann sehr ihr hier: [Wahlzeiten und Wahlräume](https://www.htw-berlin.de/fileadmin/HTW/Zentral/Zentraler_Wahlvorstand/Wahlorte___-zeiten.pdf)
 
+ 
+
+#  
+
+ 
+
 Unsere Hochschule ist eine Körperschaft öffentlichen Rechts. Als solche verfügt sie über eine Satzung – basierend auf dem Berliner Hochschulgesetz –, die die Rechte und Pflichten der einzelnen Gremien und die Geschäftsabläufe in der Hochschule regelt.  
 Die Studierenden der HTW wählen einmal im Jahr ihre Vertreter/innen in diese Gremien.  
 Jedes Gremium ist für das Funktionieren der Hochschule nötig. Es ist wichtig, dass genügend engagierte Studierende die zur Verfügung stehenden Mandate besetzen, regelmäßig die studentischen Standpunkte in den Sitzungen vertreten und unsere Mitbestimmungsrechte nutzen.  
