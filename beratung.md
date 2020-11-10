@@ -8,11 +8,7 @@ image: Abb5
 ---
 ### Wir beraten euch gerne zu folgenden Themen...
 
-* allgemeine Fragen zu eurem Studium
-* Probleme bei der Studienorganisation 
-* Fragen zur oder Probleme bei Studienfinanzierung 
-
-Meldet euch bei uns!
+Wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
 Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
 
