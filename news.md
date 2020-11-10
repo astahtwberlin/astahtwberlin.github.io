@@ -6,9 +6,9 @@ title_thin:
 image: Abb4
 
 ---
-Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen. 
+Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
 
-Die aktuelle Mailadresse findet ihr auf dieser Seite.
+[Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
 
 ***
 
