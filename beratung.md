@@ -18,4 +18,4 @@ Leider haben wir momentan Probleme mit unseren Servern und können von unseren g
 
 ###### [Hier](https://discord.com/invite/B695Bgn) gehts zum AStA HTW Berlin-Discord-Server!
 
-Dort antworten wir zeitnah auf eure Anfragen und bieten nach Vereinbarung Sprechstunden an. 
+Dort antworten wir zeitnah auf eure Anfragen und bieten nach Vereinbarung Sprechstunden an.
