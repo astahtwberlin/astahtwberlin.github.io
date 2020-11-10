@@ -28,7 +28,7 @@ referate:
   section: soziales
   members:
   - name: Benjamin Reichel
-    mail: asta-soziales1@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Soziales 1
     picture: fotobenjamin.jpg
     desc: 'Success is not final, failure is not fatal: it is the courage to continue
@@ -39,7 +39,7 @@ referate:
   section: hochschulpolitik
   members:
   - name: 'Stefanie D. '
-    mail: asta-hopo@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulpolitik
     picture: unknown.png
     desc: ''
@@ -49,7 +49,7 @@ referate:
   section: oeffentlichkeitsarbeit
   members:
   - name: Jan-Pehr Heilmann
-    mail: asta-pr1@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
     picture: jan_pr1.jpg
     desc: '"Words and Ideas can change the World." -John Keating'
@@ -62,7 +62,7 @@ referate:
       linkedin: https://habwollend.de/
       xing: 
   - name: Fiona Hoti
-    mail: asta-pr2@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 2
     picture: fotofiona.png
     desc: '"Logic will get you from A to B.  Imagination will take you everywhere."    -Albert
@@ -76,7 +76,7 @@ referate:
   section: hochschulgremien
   members:
   - name: Felix Klein
-    mail: asta-gremien@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
     picture: fotofelix.jpg
     desc: " Du hast Fragen zu StuPa, FSR, FBR oder anderen Gremien? Dann schieß los,
@@ -96,9 +96,9 @@ referate:
       the world. Indeed, it’s the only thing that ever has."  -Margaret Mead'
     position: Nachhaltigkeit
     social: ''
-    mail: asta-nachhaltigkeit1@students-htw.de
+    mail: asta.htw.students@gmail.com
   - name: Carolina Track
-    mail: asta-nachhaltigkeit2@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: 'Nachhaltigkeit 2 '
     picture: unknown.png
     desc: ''
