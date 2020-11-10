@@ -71,19 +71,7 @@ referate:
     social: "[object Object]"
 - title: Kultur
   section: kultur
-  members:
-  - name: Liia TZ
-    mail: asta-kultur@students-htw.de
-    mailbetreff: Kultur
-    picture: unknown.png
-    desc: ''
-    position: Kulturmanagement
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+  members: []
 - title: Hochschulgremien
   section: hochschulgremien
   members:
@@ -97,19 +85,7 @@ referate:
     social: ''
 - title: Internationales
   section: internationales
-  members:
-  - name: Ahmed Hussein
-    mail: asta-international@students-htw.de
-    mailbetreff: Internationales
-    picture: max_international.png
-    desc: ''
-    position: Internationales
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+  members: []
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
