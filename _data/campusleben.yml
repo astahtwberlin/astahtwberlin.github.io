@@ -49,39 +49,39 @@ fachschaften:
     email: fsr5@students-htw.de
     link: ''
 hochschulgremien:
-  text: ''
+  text: Unsere Hochschule ist eine Körperschaft öffentlichen Rechts. Als solche verfügt
+    sie über eine Satzung – basierend auf dem Berliner Hochschulgesetz – welche die
+    Rechte und Pflichten der einzelnen Gremien und die Geschäftsabläufe in der Hochschule
+    regelt. Die Studierenden der HTW wählen einmal im Jahr ihre VertreterInnen in
+    diese Gremien. Jedes Gremium ist für das Funktionieren der Hochschule nötig. Es
+    ist wichtig, dass genügend engagierte Studierende die zur Verfügung stehenden
+    Mandate besetzen, regelmäßig die studentischen Standpunkte in den Sitzungen vertreten
+    und das studentische Mitbestimmungsrecht nutzen!
 inis:
-  text: Initiativen sind Projekte von Studierenden der HTW Berlin, die ein bestimmtes
-    Ziel verfolgen. Dieses kann zeitlich Begrenzt oder auch nur eine bestimmte Zeit
-    gehen. Um das zu erreichen, erhalten sie Unterstützung der Studierendenvertretung.
-    Dabei erhalten sie nicht nur materielle Unterstützung sondern auch finanzielle
-    Mittel.  Die Initiativen werden meist aus den reihen engagierter Studenten gegründet
-    um gemeinsam ein Ziel zu verfolgen oder sich für etwas einzusetzen. Diese Initiative
-    kann sich dann vom StuPa offiziell anerkennen lassen. Damit ist der weg dann offen,
-    von der Studierendenschaft Unterstützung zu erhalten. Wichtig ist nur das die
-    Initiative nicht gegen Beschlüsse und gegen die Satzung der Studierendenschaft
-    verstößt. Wichtigster punkt hier ist der Grundsatzbeschluss für die Anerkennung
-    von Initiativen.  Auf den folgenden Seiten findest du Informationen zu anerkannten
-    Initiativen und deren Ziele.  Wenn du auch eine Initiative zu einem Thema gründen
-    möchtest, kannst du dich gerne beim StuPa Präsidium melden. Dieses hilft dir nach
-    einem kurzen Gespräch einen Antrag zu Formulieren, welcher dann auf der nächsten
-    StuPa Sitzung dann behandelt wird.
+  text: |-
+    Studentische Initiativen, auch Inis genannt, sind Projekte von Studierenden der HTW Berlin, die ein bestimmtes Ziel verfolgen. Dieses kann langfristig sein oder auch zeitlich begrenzt sein.
+    Für die Erreichung ihrer Ziele erhalten Inis Unterstützung der Studierendenvertretung. Die Studierendenvertretung steht mit Rat und Tat beiseite - sowohl mit Erfahrungen und Tips, als auch mit finanziellen Mitteln.
+
+    Engagiere dich und gründe deine eigene Ini - melde dich dafür beim StuPa!
   infos:
-  - title: Some INI
-    desc: Die machen was cooles
-    picture: 
-    email: 
-    link: 
-  - title: Another INI
-    desc: Ist auch was tolles, was die machen
-    picture: 
-    email: 
-    link: 
-  - title: Noch eine andere INI
-    desc: Die machen noch was anderes
-    picture: 
-    email: 
-    link: 
+  - title: Café Kopfbau
+    desc: Wir sind ein studentisch geführtes Café und versorgen Euch preiswert mit
+      Kaffee und anderen Getränken. Ihr könnt hier entspannen, lernen und kickern.
+      Kommt vorbei!
+    picture: cafe_kopfbau.jpg
+    email: cafe.kopfbau@gmx.de
+    link: https://de-de.facebook.com/CafeSuchtTeam/
+  - title: Urban Garden
+    desc: Auf dem Campus Wilhelminenhof wird ab sofort nicht nur eifrig gelernt, sondern
+      auch gegärtnert!
+    picture: urban_garden.jpg
+    email: urban-garden@students-htw.de
+    link: https://de-de.facebook.com/urbangarden.htw.berlin/
+  - title: HTW eSports
+    desc: 'Wir sind die Gamer der Hochschule für Technik und Wirtschaft Berlin! '
+    picture: esports.png
+    email: info@htw-esports.de
+    link: https://de-de.facebook.com/htwesports/
 hdt:
   text: 'Das "Haus der Transformation" versteht sich als Plattform innerhalb der HTW
     Berlin, die Studierende, Lehrende, Forschende und Akteur_innen aus Wirtschaft,

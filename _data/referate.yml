@@ -4,6 +4,7 @@ referate:
   section: finanzen
   members:
 
+
   - name: Emily S.
     mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
@@ -20,7 +21,7 @@ referate:
       xing: 
   - name: Jessica V.
     mail: asta.htw.students@gmail.com
-    mailbetreff: Finanzen 3
+    mailbetreff: Finanzen 3, 1. stellvertretender Vorsitz
     picture: unknown.png
     desc: ''
     position: Finanzen 3
@@ -62,18 +63,14 @@ referate:
       instagram: https://instagram.com/habwollend/
       linkedin: https://habwollend.de/
       xing: 
-  - name: Fiona H.
+  - name: Fiona Hoti
     mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 2
-    picture: unknown.png
-    desc: Put colors to you life! :)
+    picture: fotofiona.png
+    desc: '"Logic will get you from A to B.  Imagination will take you everywhere."    -Albert
+      Einstein'
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
-    social:
-      facebook: 
-      twitter: 
-      instagram: https://www.instagram.com/hoti.fiona
-      linkedin: ''
-      xing: 
+    social: "[object Object]"
 - title: Kultur
   section: kultur
   members:
@@ -82,15 +79,17 @@ referate:
   section: hochschulgremien
   members:
   - name: Felix Klein
-    mail: asta-gremien@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
     picture: fotofelix.jpg
-    desc: " "
+    desc: " Du hast Fragen zu StuPa, FSR, FBR oder anderen Gremien? Dann schieß los,
+      ich antworte gern."
     position: Hochschulgremien
     social: ''
 - title: Internationales
   section: internationales
   members:
+
 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
@@ -105,6 +104,7 @@ referate:
     mail: asta-nachhaltigkeit1@students-htw.de
   - name: Carolina T.
     mail: asta-nachhaltigkeit2@students-htw.de
+
     mailbetreff: 'Nachhaltigkeit 2 '
     picture: unknown.png
     desc: ''

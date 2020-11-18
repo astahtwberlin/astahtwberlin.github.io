@@ -6,25 +6,19 @@ layout: main
 {% include card_top.html %}
 {{ content }}
 
-<a href="{{ site.data.infos.social.instagram }}" target="_blank" class="fa fa-instagram px-3 mx-3"></a>
-<a href="{{ site.data.infos.social.facebook }}" target="_blank" class="fa fa-facebook pl-3 ml-3"></a>
-<a href="{{ site.data.infos.social.twitter }}" target="_blank" class="fa fa-twitter px-3 mx-3"></a>
 
-<!--
-<div class="container">
-  <div class="row" style="height: auto; min-height: auto;">
-    <div class="col-sm">
-      <a href="{{ site.data.infos.social.instagram }}" target="_blank" class="fa fa-instagram"></a>
-    </div>
-    <div class="col-sm">
-      <a href="{{ site.data.infos.social.facebook }}" target="_blank" class="fa fa-facebook"></a>
-    </div>
-    <div class="col-sm">
-      <a href="{{ site.data.infos.social.twitter }}" target="_blank" class="fa fa-twitter"></a>
-    </div>
-  </div>
-</div>
--->
+{% for post in site.posts %}
+<article>
+    <h2>
+        <a href="{{ post.url }}">
+        {{ post.title }}
+        </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}"> {{ post.date | date_to_long_string }} </time>
+    {{ post.content }}
+</article>
+{% endfor %}
+
 
 {% include card_bottom.html %}
 {% include bg_photo_bottom.html %}
