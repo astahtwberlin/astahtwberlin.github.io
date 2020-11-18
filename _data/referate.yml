@@ -3,6 +3,8 @@ referate:
 - title: Finanzen
   section: finanzen
   members:
+
+
   - name: Emily S.
     mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
@@ -58,7 +60,7 @@ referate:
     social:
       facebook: 
       twitter: 
-      instagram: instagram.com/habwollend/
+      instagram: https://instagram.com/habwollend/
       linkedin: https://habwollend.de/
       xing: 
   - name: Fiona Hoti
@@ -71,7 +73,8 @@ referate:
     social: "[object Object]"
 - title: Kultur
   section: kultur
-  members: []
+  members:
+
 - title: Hochschulgremien
   section: hochschulgremien
   members:
@@ -85,7 +88,9 @@ referate:
     social: ''
 - title: Internationales
   section: internationales
-  members: []
+  members:
+
+
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
@@ -96,9 +101,10 @@ referate:
       the world. Indeed, it’s the only thing that ever has."  -Margaret Mead'
     position: Nachhaltigkeit
     social: ''
-    mail: asta.htw.students@gmail.com
-  - name: Carolina Track
-    mail: asta.htw.students@gmail.com
+    mail: asta-nachhaltigkeit1@students-htw.de
+  - name: Carolina T.
+    mail: asta-nachhaltigkeit2@students-htw.de
+
     mailbetreff: 'Nachhaltigkeit 2 '
     picture: unknown.png
     desc: ''
