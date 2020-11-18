@@ -14,7 +14,11 @@ Leider haben wir momentan Probleme mit unseren Servern und können von unseren g
 
 [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
 
+ 
+
 ***
+
+ 
 
 ###### [Hier](https://discord.com/invite/B695Bgn) gehts zum AStA HTW Berlin-Discord-Server!
 

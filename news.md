@@ -10,7 +10,8 @@ Leider haben wir momentan Probleme mit unseren Servern und können von unseren g
 
 [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
 
-*
+ 
+
+***
 
 ###### Folgt uns auf unseren Social Media-Accounts und seid immer up to date!
-    
