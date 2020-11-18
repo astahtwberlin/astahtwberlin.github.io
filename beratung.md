@@ -12,7 +12,7 @@ Wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -fin
 
 Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
 
-[**Schreibt uns an unsere aktuelle Adresse!**](mailto:asta.htw.students@gmail.com)
+#### [**Schreibt uns an unsere aktuelle Adresse!**](mailto:asta.htw.students@gmail.com)
 
 ***
 
