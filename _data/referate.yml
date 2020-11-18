@@ -3,13 +3,7 @@ referate:
 - title: Finanzen
   section: finanzen
   members:
-  - name: Annabella E.
-    mail: asta-finanzen1@students-htw.de
-    mailbetreff: Finanzen 1
-    picture: unknown.png
-    desc: ''
-    position: Finanzen 1
-    social: ''
+
   - name: Emily S.
     mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
@@ -83,18 +77,7 @@ referate:
 - title: Kultur
   section: kultur
   members:
-  - name: Liia TZ
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Kultur
-    picture: unknown.png
-    desc: ''
-    position: Kulturmanagement,   1. stellvertretender Vorsitz
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+
 - title: Hochschulgremien
   section: hochschulgremien
   members:
@@ -108,18 +91,7 @@ referate:
 - title: Internationales
   section: internationales
   members:
-  - name: Ahmed Hussein
-    mail: asta-international@students-htw.de
-    mailbetreff: Internationales
-    picture: max_international.png
-    desc: ''
-    position: Internationales
-    social:
-      facebook: 
-      twitter: 
-      instagram: 
-      linkedin: 
-      xing: 
+
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
