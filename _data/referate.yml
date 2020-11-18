@@ -11,7 +11,7 @@ referate:
     position: Finanzen 1
     social: ''
   - name: Emily S.
-    mail: asta-finanzen2@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
     picture: unknown.png
     desc: Ich bin für die Verwaltung des Geldes der Studierendenschaft zuständig und
@@ -25,7 +25,7 @@ referate:
       linkedin: 
       xing: 
   - name: Jessica V.
-    mail: asta-finanzen3@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 3
     picture: unknown.png
     desc: ''
@@ -35,7 +35,7 @@ referate:
   section: soziales
   members:
   - name: Benjamin Reichel
-    mail: asta-soziales1@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Soziales 1
     picture: fotobenjamin.jpg
     desc: 'Success is not final, failure is not fatal: it is the courage to continue
@@ -46,7 +46,7 @@ referate:
   section: hochschulpolitik
   members:
   - name: 'Stefanie D. '
-    mail: asta-hopo@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulpolitik
     picture: unknown.png
     desc: ''
@@ -56,7 +56,7 @@ referate:
   section: oeffentlichkeitsarbeit
   members:
   - name: Jan-Pehr Heilmann
-    mail: asta-pr1@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 1
     picture: jan_pr1.jpg
     desc: '"Words and Ideas can change the World." -John Keating'
@@ -69,7 +69,7 @@ referate:
       linkedin: https://habwollend.de/
       xing: 
   - name: Fiona H.
-    mail: asta-pr2@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Öffentlichkeitsarbeit 2
     picture: unknown.png
     desc: Put colors to you life! :)
@@ -84,7 +84,7 @@ referate:
   section: kultur
   members:
   - name: Liia TZ
-    mail: asta-kultur@students-htw.de
+    mail: asta.htw.students@gmail.com
     mailbetreff: Kultur
     picture: unknown.png
     desc: ''
