@@ -31,12 +31,12 @@ fachschaften:
   - title: FSR2
     desc: Vertritt die Interessen der Studierenden im Fachbereich 2
     picture: FSR2_square.jpg
-    email: fsr2@students-htw.de
-    link: fsr2.students-htw.de/
+    email: fsr2.htw.students@gmail.com
+    link: https://www.fsr2.students-htw.de/
   - title: FSR3
     desc: Vertritt die Interessen der Studierenden im Fachbereich 3
     picture: FSR3_square.jpg
-    email: fsr3@students-htw.de
+    email: Fsr.drei@gmail.com
     link: https://fsr3.students-htw.de/
   - title: FSR4
     desc: Vertritt die Interessen der Studierenden im Fachbereich 4
@@ -46,7 +46,7 @@ fachschaften:
   - title: FSR5
     desc: Vertritt die Interessen der Studierenden im Fachbereich 5
     picture: FSR5_square.jpg
-    email: fsr5@students-htw.de
+    email: fachschaftsrat5@gmail.com
     link: ''
 hochschulgremien:
   text: Unsere Hochschule ist eine Körperschaft öffentlichen Rechts. Als solche verfügt
