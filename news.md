@@ -13,6 +13,8 @@ Während Studierende in prekären finanziellen Situationen zu Hause ausharren m�
 
 ##### [https://www.change.org/SemTix365-BerlinBrandenburg](https://www.change.org/SemTix365-BerlinBrandenburg "https://www.change.org/SemTix365-BerlinBrandenburg")
 
+***
+
 Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
 
 ##### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
