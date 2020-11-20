@@ -21,7 +21,7 @@ Während Studierende in prekären finanziellen Situationen zu Hause ausharren m�
 
 Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
 
-##### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
+###### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
 
 <br>
 
