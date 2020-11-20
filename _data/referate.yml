@@ -3,8 +3,6 @@ referate:
 - title: Finanzen
   section: finanzen
   members:
-
-
   - name: Emily S.
     mail: asta.htw.students@gmail.com
     mailbetreff: Finanzen 2
@@ -73,8 +71,7 @@ referate:
     social: "[object Object]"
 - title: Kultur
   section: kultur
-  members:
-
+  members: 
 - title: Hochschulgremien
   section: hochschulgremien
   members:
@@ -88,9 +85,7 @@ referate:
     social: ''
 - title: Internationales
   section: internationales
-  members:
-
-
+  members: 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
@@ -102,9 +97,8 @@ referate:
     position: Nachhaltigkeit
     social: ''
     mail: asta-nachhaltigkeit1@students-htw.de
-  - name: Carolina Track
+  - name: Carolina T.
     mail: asta-nachhaltigkeit2@students-htw.de
-
     mailbetreff: 'Nachhaltigkeit 2 '
     picture: unknown.png
     desc: ''
