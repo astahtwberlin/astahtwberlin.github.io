@@ -75,7 +75,7 @@ referate:
 - title: Hochschulgremien
   section: hochschulgremien
   members:
-  - name: &#x46;
+  - name: \x46;
     mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
     picture: fotofelix.jpg
