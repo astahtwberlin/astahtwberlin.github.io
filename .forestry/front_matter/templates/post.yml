@@ -1,0 +1,13 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+pages:
+- _posts/2020-09-01-ein-neuer-versuch.md
