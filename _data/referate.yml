@@ -68,14 +68,15 @@ referate:
     desc: '"Logic will get you from A to B.  Imagination will take you everywhere."    -Albert
       Einstein'
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
-    social: "[object Object]"
+    social:
+      instagram: https://instagram.com/hoti.fiona
 - title: Kultur
   section: kultur
   members: 
 - title: Hochschulgremien
   section: hochschulgremien
   members:
-  - name: F&#101&#108&#105&#120 &#75&#108&#101&#105&#110
+  - name: F&#101&#108&#105&#120 &#75.
     mail: asta.htw.students@gmail.com
     mailbetreff: Hochschulgremien
     picture: fotofelix.jpg
