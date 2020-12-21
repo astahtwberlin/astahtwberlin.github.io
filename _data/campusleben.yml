@@ -13,7 +13,6 @@ stupa:
     kannst du die einmal monatlich stattfindenden Sitzungen des StuPa jederzeit besuchen,
     deine Meinung vertreten und Anträge stellen. Dafür musst du kein Mitglied sein.
   mail: stupa.htw.students@gmail.com
-  # webseite: ''
 fachschaften:
   text: Die Fachschaftsräte, kurz FSR, sind die erste Anlaufstelle, wenn du Probleme,
     Fragen oder Ideen rund um dein Studium hast. Sie sind es, die für dich den O-Tag
@@ -63,6 +62,13 @@ inis:
 
     Engagiere dich und gründe deine eigene Ini - melde dich dafür beim StuPa!
   infos:
+  - title: einleuchtend
+    desc: Wir setzen uns für Nachhaltigkeit an der HTW Berlin und in der Umgebung
+      ein, z.B. mit unserer PV-Anlage auf dem Mensadach, Upcycling-Workshops oder
+      Kleidertauschaktionen.
+    picture: einleuchtendLogo.png
+    email: kontakt@einleuchtend.org
+    link: https://www.facebook.com/einleuchtend.htw
   - title: Café Kopfbau
     desc: Wir sind ein studentisch geführtes Café und versorgen Euch preiswert mit
       Kaffee und anderen Getränken. Ihr könnt hier entspannen, lernen und kickern.
