@@ -62,6 +62,13 @@ inis:
 
     Engagiere dich und gründe deine eigene Ini - melde dich dafür beim StuPa!
   infos:
+  - title: HTW hilft
+    desc: Wir wollen das soziale Engagement gemeinsam mit Euch in unseren Studienalltag
+      integrieren. Seid bei der Hausaufgabenhilfe, den Sammelaktionen oder unserem
+      geplanten Sprachcafé dabei!
+    picture: logohtwhilft.jpg
+    email: htwhilft@htw-berlin.de
+    link: https://www.facebook.com/htwhilft/
   - title: einleuchtend e.V.
     desc: Wir setzen uns für Nachhaltigkeit an der HTW Berlin und in der Umgebung
       ein, z.B. mit unserer PV-Anlage auf dem Mensadach, Upcycling-Workshops oder
