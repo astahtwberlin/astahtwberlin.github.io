@@ -66,8 +66,12 @@ referate:
     mail: asta.htw.students@gmail.com
     mailbetreff: Frage zu Lehre und Studium
     picture: fotofelix.jpg
-    desc: " Du hast Fragen zu StuPa, FSR, FBR oder anderen Gremien? Dann schieß los,
-      ich antworte gern."
+    desc: |-
+      Akademischer Senat, Kuratorium und Fachbereichsrat sagen dir nichts?
+      Dir kommen so einige Dinge in deinem Studium komisch oder falsch vor?
+      Du hast formelle Fragen zum Studium?
+
+      Schreib mir und ich gebe mein Bestes, dir zu helfen.
     position: Lehre und Studium
     social: ''
 - title: Internationales
