@@ -3,6 +3,13 @@ referate:
 - title: Finanzen
   section: finanzen
   members:
+  - name: Jessica V.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Finanzen 1, 1. stellvertretender Vorsitz
+    picture: unknown.png
+    desc: ''
+    position: Finanzen 1
+    social: ''
   - name: Kim B.
     mail: asta.htw.students@gmail.com
     mailbetreff: Frage an Finanzen 2
@@ -10,24 +17,24 @@ referate:
     desc: ''
     position: Finanzen 2
     social: ''
-  - name: Jessica V.
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Finanzen 3, 1. stellvertretender Vorsitz
-    picture: unknown.png
-    desc: ''
-    position: Finanzen 3
-    social: ''
 - title: Soziales
   section: soziales
   members:
   - name: Benjamin Reichel
     mail: asta.htw.students@gmail.com
-    mailbetreff: Soziales 1
+    mailbetreff: Frage an Soziales 1
     picture: fotobenjamin.jpg
     desc: 'Success is not final, failure is not fatal: it is the courage to continue
       that counts. -Winston S. Churchill '
     position: Soziales 1
     social: ''
+  - name: Alexander A.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Soziales 2
+    desc: ''
+    position: Soziales 2
+    social: ''
+    picture: unknown.png
 - title: Internationales
   section: internationales
   members: 
