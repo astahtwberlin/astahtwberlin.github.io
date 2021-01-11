@@ -40,7 +40,14 @@ referate:
   members: 
 - title: Anti-Diskriminierung
   section: antidis
-  members: ''
+  members:
+  - name: Myriam D.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Anti-Diskriminierung
+    picture: unknown.png
+    desc: ''
+    position: Anti-Diskriminierung
+    social: ''
 - title: Lehre und Studium
   section: lust
   members:
