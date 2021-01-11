@@ -37,7 +37,14 @@ referate:
     picture: unknown.png
 - title: Internationales
   section: internationales
-  members: 
+  members:
+  - name: Aziz H.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Internationales
+    picture: unknown.png
+    desc: ''
+    position: Internationales
+    social: ''
 - title: Anti-Diskriminierung
   section: antidis
   members:
