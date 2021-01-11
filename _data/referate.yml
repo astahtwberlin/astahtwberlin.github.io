@@ -21,6 +21,30 @@ referate:
       that counts. -Winston S. Churchill '
     position: Soziales 1
     social: ''
+- title: Internationales
+  section: internationales
+  members: 
+- title: Anti-Diskriminierung
+  section: antidis
+  members: ''
+- title: Lehre und Studium
+  section: lust
+  members:
+  - name: F&#101&#108&#105&#120 &#75.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage zu Lehre und Studium
+    picture: fotofelix.jpg
+    desc: |-
+      Akademischer Senat, Kuratorium und Fachbereichsrat sagen dir nichts?
+      Dir kommen so einige Dinge in deinem Studium komisch oder falsch vor?
+      Du hast formelle Fragen zum Studium?
+
+      Schreib mir und ich gebe mein Bestes, dir zu helfen.
+    position: Lehre und Studium
+    social: ''
+- title: Kultur
+  section: kultur
+  members: 
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
@@ -31,6 +55,9 @@ referate:
     desc: ''
     position: Hochschulpolitik, Vorsitzende
     social: ''
+- title: Nachhaltigkeit
+  section: nachhaltigkeit
+  members: []
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
@@ -56,30 +83,6 @@ referate:
     position: 'Öffentlichkeitsarbeit 2: Kommunikationsdesign'
     social:
       instagram: https://instagram.com/hoti.fiona
-- title: Kultur
-  section: kultur
-  members: 
-- title: Lehre und Studium
-  section: lust
-  members:
-  - name: F&#101&#108&#105&#120 &#75.
-    mail: asta.htw.students@gmail.com
-    mailbetreff: Frage zu Lehre und Studium
-    picture: fotofelix.jpg
-    desc: |-
-      Akademischer Senat, Kuratorium und Fachbereichsrat sagen dir nichts?
-      Dir kommen so einige Dinge in deinem Studium komisch oder falsch vor?
-      Du hast formelle Fragen zum Studium?
-
-      Schreib mir und ich gebe mein Bestes, dir zu helfen.
-    position: Lehre und Studium
-    social: ''
-- title: Internationales
-  section: internationales
-  members: 
-- title: Nachhaltigkeit
-  section: nachhaltigkeit
-  members: []
 - title: Informationsmanagement und Datenschutz
   members:
   - name: Carolina Track
