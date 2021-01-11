@@ -84,19 +84,11 @@ referate:
     position: Nachhaltigkeit
     social: ''
     mail: asta-nachhaltigkeit1@students-htw.de
-  - name: Carolina T.
-    mail: asta-nachhaltigkeit2@students-htw.de
-    mailbetreff: 'Nachhaltigkeit 2 '
-    picture: unknown.png
-    desc: ʘ‿ʘ
-    position: 'Nachhaltigkeit 2: Wissensmanagement'
-    social:
-      instagram: ''
 - title: Informationsmanagement und Datenschutz
   members:
   - name: Carolina Track
     mail: Carolina.Track@Student.htw-berlin.de
-    desc: ''
-    position: ''
+    desc: ʘ‿ʘ
+    position: Informationsmanagement und Datenschutz
     social: ''
   section: infods
