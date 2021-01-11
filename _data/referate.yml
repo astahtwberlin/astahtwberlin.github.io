@@ -78,7 +78,13 @@ referate:
     social: ''
 - title: Nachhaltigkeit
   section: nachhaltigkeit
-  members: []
+  members:
+  - name: Jan R.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Nachhaltigkeit
+    picture: unknown.png
+    position: Nachhaltigkeit
+    social: ''
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
