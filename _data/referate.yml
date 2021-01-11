@@ -72,7 +72,14 @@ referate:
     social: ''
 - title: Kultur
   section: kultur
-  members: 
+  members:
+  - name: Josefine S.
+    mail: asta.htw.students@gmail.com
+    mailbetreff: Frage an Kultur
+    picture: unknown.png
+    desc: ''
+    position: Kultur
+    social: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
