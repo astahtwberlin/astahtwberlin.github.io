@@ -59,16 +59,16 @@ referate:
 - title: Kultur
   section: kultur
   members: 
-- title: Hochschulgremien
-  section: hochschulgremien
+- title: Lehre und Studium
+  section: lust
   members:
   - name: F&#101&#108&#105&#120 &#75.
     mail: asta.htw.students@gmail.com
-    mailbetreff: Hochschulgremien
+    mailbetreff: Frage zu Lehre und Studium
     picture: fotofelix.jpg
     desc: " Du hast Fragen zu StuPa, FSR, FBR oder anderen Gremien? Dann schieß los,
       ich antworte gern."
-    position: Hochschulgremien
+    position: Lehre und Studium
     social: ''
 - title: Internationales
   section: internationales
