@@ -75,15 +75,7 @@ referate:
   members: 
 - title: Nachhaltigkeit
   section: nachhaltigkeit
-  members:
-  - name: Salim Alkhodor
-    mailbetreff: Nachhaltigkeit 1
-    picture: salim_asta.JPG
-    desc: '"Never doubt that a small group of thoughtful, committed citizens can change
-      the world. Indeed, it’s the only thing that ever has."  -Margaret Mead'
-    position: Nachhaltigkeit
-    social: ''
-    mail: asta-nachhaltigkeit1@students-htw.de
+  members: []
 - title: Informationsmanagement und Datenschutz
   members:
   - name: Carolina Track
