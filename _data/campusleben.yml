@@ -77,6 +77,12 @@ inis:
     picture: logoeinleuchtendev.jpg
     email: kontakt@einleuchtend.org
     link: https://www.facebook.com/einleuchtend.htw
+  - title: Campus Kino
+    desc: Ihr wollt Kino im Hörsaal, Popcorn und Getränke zu studentischen Preisen?
+      Dann schaut bei uns vorbei!
+    picture: campuskinologo.png
+    email: campus-kino@lists.htw-berlin.de
+    link: https://www.unifilm.de/studentenkinos/Berlin_HTW
   - title: Café Kopfbau
     desc: Wir sind ein studentisch geführtes Café und versorgen Euch preiswert mit
       Kaffee und anderen Getränken. Ihr könnt hier entspannen, lernen und kickern.
