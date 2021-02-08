@@ -6,14 +6,9 @@ title_thin:
 image: Abb4
 
 ---
-### Semesterticket Update
+### Semesterticket 
 
-Du bist einer von 210.000 Studierenden in Berlin und Brandenburg oder hast Verwandte und Freunde, die auf ein Semesterticket angewiesen sind? Dann unterschreib [**hier**](https://www.change.org/SemTix365-BerlinBrandenburg) und hilf dabei, das Studierende auch im nächsten Semester zu fairen Preisen den ÖPNV nutzen können.  
-Während Studierende in prekären finanziellen Situationen zu Hause ausharren müssen, dürfen sich die Ticketpreise auf keinen Fall erhöhen. Deshalb sagen wir: Preise einfrieren, jetzt! Perspektivisch braucht es eine Gleichbehandlung von Auszubildenden und Studierenden und damit das 365€-Ticket auch für Studierende in Berlin und Brandenburg.
-
-##### [https://www.change.org/SemTix365-BerlinBrandenburg](https://www.change.org/SemTix365-BerlinBrandenburg "https://www.change.org/SemTix365-BerlinBrandenburg")
-
-<br>
+Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [Semtix-htw@gmx.de](mailto:Semtix-htw@gmx.de). Über die Voraussetzungen könnt ihr euch wie immer auf den Seiten der HTW informieren.
 
 ***
 
