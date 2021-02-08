@@ -8,7 +8,7 @@ image: Abb4
 ---
 ### Infos zum Semesterticket während Corona
 
-Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [Semtix-htw@gmx.de](mailto:Semtix-htw@gmx.de). Über die Voraussetzungen informiert euch vorab bitte [hier](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).
+Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [Semtix-htw@gmx.de](mailto:semtix-htw@gmx.de). Über die Voraussetzungen informiert euch vorab bitte [hier](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).
 
 ***
 
