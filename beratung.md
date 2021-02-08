@@ -8,7 +8,7 @@ image: Abb5
 ---
 ### Wir beraten euch gerne zu folgenden Themen...
 
-Unsere Rechtsberatung für Allgemeines Recht (vor allem Miete, Strafrecht, Arbeitsrecht) und Hochschulrecht (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin alle 2 Wochen per Mail oder telefonisch statt, zur Anmeldung schickt uns einfach eine Mail.
+Unsere Rechtsberatung für **Allgemeines Recht** (vor allem Miete, Strafrecht, Arbeitsrecht) und **Hochschulrecht** (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin **alle 2 Wochen** per Mail oder telefonisch statt, zur Anmeldung schickt uns einfach eine Mail.
 
 Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
