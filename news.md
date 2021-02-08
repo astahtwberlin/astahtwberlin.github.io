@@ -6,7 +6,7 @@ title_thin:
 image: Abb4
 
 ---
-### Semesterticket 
+### Infos zum Semesterticket während Corona 
 
 Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [Semtix-htw@gmx.de](mailto:Semtix-htw@gmx.de). Über die Voraussetzungen könnt ihr euch wie immer auf den Seiten der HTW informieren.
 
