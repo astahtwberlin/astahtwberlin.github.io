@@ -8,11 +8,11 @@ image: Abb5
 ---
 ### Wir beraten euch gerne zu folgenden Themen...
 
-Wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
+Unsere Rechtsberatung für Allgemeines Recht (vor allem Miete, Strafrecht, Arbeitsrecht) und Hochschulrecht (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin alle 2 Wochen per Mail oder telefonisch statt, zur Anmeldung schickt uns einfach eine Mail.
 
-Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
+Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
-##### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
+##### [Schreibt uns!](mailto:asta.htw.students@gmail.com)
 
 ***
 
