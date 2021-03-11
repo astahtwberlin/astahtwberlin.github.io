@@ -13,4 +13,4 @@ Wir finanzieren uns durch deinen Beitrag zur Studierendenschaft in Höhe von 7,0
 
 Wenn du selbst Ideen hast, dich gerne einbringen möchtest oder vielleicht auch noch nicht weißt wie, beraten wir dich da auch hingehend, wo und wie du dich an unseren Campi ehrenamtlich engagieren kannst! Schreib uns!
 
-Für besonders Interessierte ist hier auch unsere [GO](). 
+Für besonders Interessierte ist hier auch unsere [GO](/assets/images/geschaftsordnung-asta-htw-berlin-1.pdf). 
