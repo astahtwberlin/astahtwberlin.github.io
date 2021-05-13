@@ -48,10 +48,12 @@ referate:
   - name: Darian P.
     mail: asta.htw.students@gmail.com
     mailbetreff: Frage an Internationales
-    picture: unknown.png
-    desc: ''
+    picture: fotodarian.jpg
+    desc: Somebody said that it couldn’t be done. But he with a chuckle replied that
+      “maybe it couldn’t,” but he would be one who wouldn’t say so till he’d tried.
+      - Edgar Albert Guest
     position: Internationales
-    social: ''
+    social: https://www.linkedin.com/in/darian-papke/
 - title: Anti-Diskriminierung
   section: antidis
   members:
