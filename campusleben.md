@@ -6,9 +6,22 @@ title_thin: wahlen
 image: Abb7
 
 ---
-Unsere Hochschule ist eine Körperschaft öffentlichen Rechts. Als solche verfügt sie über eine Satzung – basierend auf dem Berliner Hochschulgesetz –, die die Rechte und Pflichten der einzelnen Gremien und die Geschäftsabläufe in der Hochschule regelt.  
-Die Studierenden der HTW wählen einmal im Jahr ihre Vertreter/innen in diese Gremien.  
-Jedes Gremium ist für das Funktionieren der Hochschule nötig. Es ist wichtig, dass genügend engagierte Studierende die zur Verfügung stehenden Mandate besetzen, regelmäßig die studentischen Standpunkte in den Sitzungen vertreten und unsere Mitbestimmungsrechte nutzen.  
-Wie du sehen wirst, sind die Professoren meist in der Mehrheit. Das heißt allerdings nicht, dass unsere Stimmen kein Gewicht haben! Jeder Abstimmung geht eine Diskussion voraus.  
-Dabei können wir Studierende die anderen Mitglieder eines Gremiums für unsere Meinung begeistern und ihnen die studentische Sichtweise aufzeigen. Oftmals sind MitarbeiterInnen und Profs froh über unsere Ideen und Anregungen, und manche Abstimmung kann so in unserem Sinne beeinflusst werden.  
-Auf dieser Seite stellen wir dir einige der Gremien vor.
+We want you!
+
+For Gremienarbeit.
+
+[Wer wählt wen warum?](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047660/Kurzbericht_Protokoll_Infoveranstaltung_Gremienwahlen_11_05_2021.docx) Antworten auf deine Fragen findest du in diesem Dokument.
+
+Interesse geweckt? 
+
+Deadline für deine Liste ist der 25. Mai um 14 Uhr, damit Ende Juni ordentlich für Dich gewählt werden kann! Sendet eure Listen für die Aufstellung zur Wahl an den [Zentralen Wahlvorstand der HTW](https://www.htw-berlin.de/einrichtungen/akademische-selbstverwaltung/zentraler-wahlvorstand/).
+
+Damit die Leute wissen, für wen sie wählen sollen, stell dich der Studierendenschaft vor!
+
+Hier findest du den Steckbrief: [Steckbrief Gremienwahl](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047427/Steckbrief_Gremienwahl.pdf)
+
+Melde dich mit deinen Studi-Daten im Wiki an, lade die PDF runter und fülle das Formular direkt am PC über die eingebauten Textfelder und Dropdowns aus, und setze deine Häkchen.
+
+Schicke den ausgefüllten Steckbrief bis zum 1. Juni an[ asta.htw.students@gmail.com](mailto:asta.htw.students@gmail.com?subject=Mein%20Steckbrief%20zur%20Gremienwahl), wir kümmern uns um den Rest!
+
+Wenn du noch offene Fragen zu den Gremienwahlen hast, wende dich gerne an uns.
