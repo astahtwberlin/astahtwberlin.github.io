@@ -10,7 +10,7 @@ image: Abb7
 
 ### For Gremienarbeit.
 
-Wer wählt wen warum? Antworten auf deine Fragen findest du in [diesem Dokumen](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047660/Kurzbericht_Protokoll_Infoveranstaltung_Gremienwahlen_11_05_2021.docx)t.
+Wer wählt wen warum? Antworten auf deine Fragen findest du in [diesem Dokument](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047660/Kurzbericht_Protokoll_Infoveranstaltung_Gremienwahlen_11_05_2021.docx).
 
 #### Interesse geweckt?
 
