@@ -6,17 +6,17 @@ title_thin: wahlen
 image: Abb7
 
 ---
-We want you!
+# We want you!
 
-For Gremienarbeit.
+### For Gremienarbeit.
 
 [Wer wählt wen warum?](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047660/Kurzbericht_Protokoll_Infoveranstaltung_Gremienwahlen_11_05_2021.docx) Antworten auf deine Fragen findest du in diesem Dokument.
 
-Interesse geweckt? 
+#### Interesse geweckt? 
 
 Deadline für deine Liste ist der 25. Mai um 14 Uhr, damit Ende Juni ordentlich für Dich gewählt werden kann! Sendet eure Listen für die Aufstellung zur Wahl an den [Zentralen Wahlvorstand der HTW](https://www.htw-berlin.de/einrichtungen/akademische-selbstverwaltung/zentraler-wahlvorstand/).
 
-Damit die Leute wissen, für wen sie wählen sollen, stell dich der Studierendenschaft vor!
+#### Damit die Leute wissen, für wen sie wählen sollen, stell dich der Studierendenschaft vor!
 
 Hier findest du den Steckbrief: [Steckbrief Gremienwahl](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/Dokumente+der+Studierendenschaft?preview=/101319356/117047427/Steckbrief_Gremienwahl.pdf)
 
