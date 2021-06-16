@@ -10,7 +10,7 @@ image: Abb5
 
 ###### Unsere **Sozialrecht- und Bafög-Beratung** findet **einmal im Monat** statt.
 
-###### Zur Anmeldung schickt uns einfach eine Mail.
+###### Zur Anmeldung schickt uns einfach eine Mail mit dem Thema oder Problem, zu dem ihr eine Beratung wünscht, sowie eurer **Telefonnummer**, da die Beratung aufgrund der Pandemie telefonisch stattfindet. 
 
 Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
