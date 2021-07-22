@@ -23,5 +23,3 @@ navigation:
       url: "/campusleben#section-hochschulgremien"
     - page: INIs & Co.
       url: "/campusleben#section-inis"
-    - page: Haus der Transformation
-      url: "/campusleben#section-hdt"
