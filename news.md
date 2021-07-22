@@ -6,6 +6,12 @@ title_thin:
 image: Abb4
 
 ---
+### Gremienwahlen
+
+In diesem Wahljahr wird auch über die Gremien an unserer Hochschule abgestimmt. Näheres zu den Hochschul-Wahlen findet ihr [hier](https://astahtwberlin.github.io/campusleben). 
+
+***
+
 ### Infos zum Semesterticket während Corona
 
 Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [semtix-htw@gmx.de](mailto:Semtix-htw@gmx.de). Über die Voraussetzungen informiert euch vorab bitte [hier](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).

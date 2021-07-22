@@ -6,9 +6,11 @@ title_thin: ''
 image: Abb5
 
 ---
-######  Unsere Rechtsberatung für **Allgemeines Recht** (vor allem Miete, Strafrecht, Arbeitsrecht) und **Hochschulrecht** (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin **alle 2 Wochen** per Mail oder telefonisch statt, zur Anmeldung schickt uns einfach eine Mail.
+###### Unsere Rechtsberatung für **Allgemeines Recht** (vor allem Miete, Strafrecht, Arbeitsrecht) und **Hochschulrecht** (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin **alle 2 Wochen** in ungeraden Kalenderwochen per Mail oder telefonisch statt.
 
- 
+###### Unsere **Sozialrecht- und Bafög-Beratung** findet **einmal im Monat** statt.
+
+###### Zur Anmeldung schickt uns einfach eine Mail mit dem Thema oder Problem, zu dem ihr eine Beratung wünscht, sowie eurer **Telefonnummer**, da die Beratung aufgrund der Pandemie telefonisch stattfindet. 
 
 Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
@@ -16,6 +18,10 @@ Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder
 
 ***
 
-###### [Hier](https://discord.com/invite/B695Bgn) gehts zum AStA HTW Berlin-Discord-Server!
+Bei dringenden Problemen bietet das Referat Soziales in
 
-Dort antworten wir zeitnah auf eure Anfragen und bieten nach Vereinbarung Sprechstunden an.
+###### **geraden Wochen dienstags von 17:30 Uhr bis 18:30 Uhr**
+
+eine Sprechstunde auf unserem [Discord-Server](https://discord.com/invite/B695Bgn "AStA-Discord") an.
+
+Auf dem Server antworten wir auch außerhalb der Sprechstunden zeitnah auf eure Anfragen und bieten nach Vereinbarung auch individuelle Termine an.
