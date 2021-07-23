@@ -8,7 +8,11 @@ image: Abb4
 ---
 ### Weiterführende Infos
 
-Mehr Infos über unsere Sitzungen, Antragsformulare, aktuellen Projekte und weiteres findest du sowohl in unserem Moodle-Kurs: [https://moodle.htw-berlin.de/course/view.php?id=27478](https://moodle.htw-berlin.de/course/view.php?id=27478 "https://moodle.htw-berlin.de/course/view.php?id=27478") als auch in unserem Wiki: [https://wiki.htw-berlin.de/confluence/display/htwberlinasta](https://wiki.htw-berlin.de/confluence/display/htwberlinasta "https://wiki.htw-berlin.de/confluence/display/htwberlinasta").
+Mehr Infos über unsere Sitzungen, Antragsformulare, aktuellen Projekte und weiteres findest du sowohl 
+
+in unserem Moodle-Kurs: [**https://moodle.htw-berlin.de/course/view.php?id=27478 **](https://moodle.htw-berlin.de/course/view.php?id=27478 "https://moodle.htw-berlin.de/course/view.php?id=27478")
+
+als auch in unserem Wiki: [**https://wiki.htw-berlin.de/confluence/display/htwberlinasta**](https://wiki.htw-berlin.de/confluence/display/htwberlinasta "https://wiki.htw-berlin.de/confluence/display/htwberlinasta").
 
 Solltest du Probleme beim Anmelden haben, melde dich gerne bei uns.
 
