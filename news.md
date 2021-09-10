@@ -10,9 +10,9 @@ image: Abb4
 
 Ab sofort sind wir wieder über unsere gewohnten Mailadressen erreichbar. Schau einfach auf der [Referatsseite](https://astahtwberlin.github.io/referate), wie du die richtige Person erreichst!
 
-Und wenn du dir nicht sicher bist, an wen du dich wenden sollst, kannst du uns auch über unsere allgemeine Adresse erreichen: 
+Und wenn du dir nicht sicher bist, an wen du dich wenden sollst, kannst du uns auch über unsere allgemeine Adresse erreichen:
 
-###### [Schreibt uns an unsere aktuelle Adresse!](asta@students-htw.de)
+###### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta@students-htw.de)
 
 <br>
 
