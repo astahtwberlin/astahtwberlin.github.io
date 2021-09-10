@@ -6,6 +6,18 @@ title_thin:
 image: Abb4
 
 ---
+### Wir sind wieder online!
+
+Ab sofort sind wir wieder über unsere gewohnten Mailadressen erreichbar. Schau einfach auf der [Referatsseite](https://astahtwberlin.github.io/referate), wie du die richtige Person erreichst!
+
+Und wenn du dir nicht sicher bist, an wen du dich wenden sollst, kannst du uns auch über unsere allgemeine Adresse erreichen: 
+
+###### [Schreibt uns an unsere aktuelle Adresse!](asta@students-htw.de)
+
+<br>
+
+***
+
 ### Weiterführende Infos
 
 Mehr Infos über unsere Sitzungen, Antragsformulare, aktuellen Projekte und weiteres findest du sowohl
@@ -18,19 +30,11 @@ Solltest du Probleme beim Anmelden haben, melde dich gerne bei uns.
 
 ***
 
-### Wichtige Infos zum Semesterticket 
+### Wichtige Infos zum Semesterticket
 
 Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [**semesterticket@students-htw.de**](mailto:semesterticket@students-htw.de). Über die Voraussetzungen informiert euch vorab bitte [**hier**](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).
 
 ***
-
-### Aktueller Kontaktweg
-
-Leider haben wir momentan Probleme mit unseren Servern und können von unseren gewohnten Accounts keine Mails senden und empfangen.
-
-###### [Schreibt uns an unsere aktuelle Adresse!](mailto:asta.htw.students@gmail.com)
-
-<br>
 
 ***
 
