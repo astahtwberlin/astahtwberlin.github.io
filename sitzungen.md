@@ -6,8 +6,8 @@ title_thin:
 image: Abb6
 
 ---
-Während des Online-Semesters finden unsere Sitzungen mittwochs um 18 Uhr auf [Zoom](https://htw-berlin.zoom.us/j/2236844587?pwd=R2lQdVJvMFB3eHlUVW4vWm5PUEY2UT09#success) statt.
+Im Wintersemester 2021/2022 tagen wir wieder in Präsenz.
 
-Meetingcode: 799205
+Unsere Sitzung findet immer dienstags um 19 Uhr im Raum WH B 106 statt. Damit wir alle Corona-Hygienemaßnahmen einhalten können, meldet euch bitte vorab per Mail an, wenn ihr eine Sitzung besuchen wollt: asta@students-htw.de.
 
-Schreibt uns bei Interesse und kommt gerne vorbei, wir freuen uns auf euch!
+Wir freuen uns auf euch!
