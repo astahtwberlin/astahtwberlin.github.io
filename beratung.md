@@ -20,7 +20,7 @@ Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder
 
 Bei dringenden Problemen bietet das Referat Soziales in
 
-###### **geraden Wochen dienstags von 17:30 Uhr bis 18:30 Uhr**
+###### **geraden Wochen donnerstags von 17:30 Uhr bis 18:30 Uhr**
 
 eine Sprechstunde auf unserem [Discord-Server](https://discord.com/invite/B695Bgn "AStA-Discord") an.
 
