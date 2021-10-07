@@ -5,5 +5,6 @@ title_strong: Referate
 title_thin: 
 image: Abb2
 
+---
 
-title_thin: Frage zum Semesterticket? semesterticket@students-htw.de
+Frage zum Semesterticket? semesterticket@students-htw.de
