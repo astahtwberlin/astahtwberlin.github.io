@@ -6,5 +6,4 @@ title_thin:
 image: Abb2
 
 ---
-
-Frage zum Semesterticket? semesterticket@students-htw.de
+###### [Frage zum Semesterticket? semesterticket@students-htw.de](mailto:semesterticket@students-htw.de)
