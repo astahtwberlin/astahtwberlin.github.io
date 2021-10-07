@@ -8,7 +8,7 @@ image: Abb4
 ---
 ### Wir sind wieder online!
 
-Ab sofort sind wir wieder über unsere gewohnten Mailadressen erreichbar. Schau einfach auf der [Referatsseite](https://astahtwberlin.github.io/referate), wie du die richtige Person erreichst!
+Ab sofort sind wir wieder über unsere gewohnten Mailadressen erreichbar. **Schau einfach auf der** [**Referatsseite**](https://astahtwberlin.github.io/referate)**, wie du die richtige Person erreichst!**
 
 Und wenn du dir nicht sicher bist, an wen du dich wenden sollst, kannst du uns auch über unsere allgemeine Adresse erreichen:
 
@@ -37,7 +37,6 @@ Mehr Infos über unsere Sitzungen, Antragsformulare, aktuellen Projekte und weit
 Solltest du Probleme beim Anmelden haben, melde dich gerne bei uns.
 
 <br>
-
 
 ***
 
