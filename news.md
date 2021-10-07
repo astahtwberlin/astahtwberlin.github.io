@@ -18,6 +18,14 @@ Und wenn du dir nicht sicher bist, an wen du dich wenden sollst, kannst du uns a
 
 ***
 
+### Wichtige Infos zum Semesterticket
+
+Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [**semesterticket@students-htw.de**](mailto:semesterticket@students-htw.de). Über die Voraussetzungen informiert euch vorab bitte [**hier**](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).
+
+<br>
+
+***
+
 ### Weiterführende Infos
 
 Mehr Infos über unsere Sitzungen, Antragsformulare, aktuellen Projekte und weiteres findest du sowohl
@@ -30,13 +38,6 @@ Solltest du Probleme beim Anmelden haben, melde dich gerne bei uns.
 
 <br>
 
-***
-
-### Wichtige Infos zum Semesterticket
-
-Wenn ihr einen Zuschuss oder eine Befreiung vom Semesterticket beantragen wollt und Unterstützung dabei braucht, erreicht ihr das Semtix-Büro unter [**semesterticket@students-htw.de**](mailto:semesterticket@students-htw.de). Über die Voraussetzungen informiert euch vorab bitte [**hier**](https://www.htw-berlin.de/studium/studienorganisation/semesterbeitraege/befreiung-vom-semesterticket/).
-
-<br>
 
 ***
 
