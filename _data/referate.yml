@@ -39,21 +39,7 @@ referate:
     picture: fotoalexander.jpg
 - title: Internationales
   section: internationales
-  members:
-  - name: Darian P.
-    mail: asta-international@students-htw.de
-    mailbetreff: Frage an Internationales
-    picture: fotodarianklein.jpg
-    desc: The International Department takes care of matters that involve students
-      from abroad who study in Germany long term, as well as incoming /outgoing students
-      who study abroad / in Germany for a limited time. It communicates between students,
-      student initiatives and university bodies that are concerned with international
-      students and seeks to solve problems by giving direct advice or referring to
-      the institutions in charge.
-    position: Internationales
-    social:
-      instagram: ''
-      linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
+  members: []
 - title: Anti-Diskriminierung
   section: antidis
   members:
