@@ -73,11 +73,11 @@ referate:
   section: kultur
   members:
   - name: Fiona
-    mail: ''
-    mailbetreff: ''
+    mail: asta-kultur@students-htw.de
+    mailbetreff: Frage an AStA Kultur
     picture: ''
     desc: ''
-    position: ''
+    position: Kultur
     social: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
@@ -105,11 +105,11 @@ referate:
       instagram: ''
       linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
   - name: Artus
-    mail: ''
-    mailbetreff: ''
+    mail: asta-pr@students-htw.de
+    mailbetreff: Frage an PR
     picture: ''
     desc: ''
-    position: ''
+    position: Öffentlichkeitsarbeit 1
     social: ''
 - title: Informationsmanagement und Datenschutz
   members:
