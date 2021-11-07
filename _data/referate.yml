@@ -43,6 +43,13 @@ referate:
 - title: Anti-Diskriminierung
   section: antidis
   members:
+  - name: Kim Chiara
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
   - name: 'Myriam '
     mail: " asta-antidis@students-htw.de"
     mailbetreff: Frage an Anti-Diskriminierung
@@ -64,7 +71,14 @@ referate:
     social: ''
 - title: Kultur
   section: kultur
-  members: []
+  members:
+  - name: Fiona
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
 - title: Hochschulpolitik
   section: hochschulpolitik
   members:
@@ -81,6 +95,13 @@ referate:
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
+  - name: Artus
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
   - name: Marie Chiara Klatt
     mail: asta-pr1@students-htw.de
     mailbetreff: Frage an Öffentlichkeitsarbeit 1
