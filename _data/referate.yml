@@ -53,7 +53,7 @@ referate:
   - name: Kim Chiara
     mail: " asta-antidis@students-htw.de"
     mailbetreff: Frage an Anti-Diskriminierung
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: Anti-Diskriminierung
     social: ''
@@ -75,7 +75,7 @@ referate:
   - name: Fiona
     mail: asta-kultur@students-htw.de
     mailbetreff: Frage an AStA Kultur
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: Kultur
     social: ''
@@ -107,7 +107,7 @@ referate:
   - name: Artus
     mail: asta-pr@students-htw.de
     mailbetreff: Frage an PR
-    picture: ''
+    picture: unknown.png
     desc: ''
     position: Öffentlichkeitsarbeit 1
     social: ''
