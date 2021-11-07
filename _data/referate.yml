@@ -43,19 +43,19 @@ referate:
 - title: Anti-Diskriminierung
   section: antidis
   members:
-  - name: Kim Chiara
-    mail: ''
-    mailbetreff: ''
-    picture: ''
-    desc: ''
-    position: ''
-    social: ''
   - name: 'Myriam '
     mail: " asta-antidis@students-htw.de"
     mailbetreff: Frage an Anti-Diskriminierung
     picture: unknown.png
     desc: ''
     position: Anti-Diskriminierung, 2. stellvertretende Vorsitzende
+    social: ''
+  - name: Kim Chiara
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
     social: ''
 - title: Lehre und Studium
   section: lust
@@ -95,15 +95,8 @@ referate:
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
-  - name: Artus
-    mail: ''
-    mailbetreff: ''
-    picture: ''
-    desc: ''
-    position: ''
-    social: ''
   - name: Marie Chiara Klatt
-    mail: asta-pr1@students-htw.de
+    mail: asta-pr@students-htw.de
     mailbetreff: Frage an Öffentlichkeitsarbeit 1
     picture: fotomarie.jpg
     desc: Kommunikationsdesign, Social Media Management, Pressearbeit
@@ -111,6 +104,13 @@ referate:
     social:
       instagram: ''
       linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
+  - name: Artus
+    mail: ''
+    mailbetreff: ''
+    picture: ''
+    desc: ''
+    position: ''
+    social: ''
 - title: Informationsmanagement und Datenschutz
   members:
   - name: Carolina Track
