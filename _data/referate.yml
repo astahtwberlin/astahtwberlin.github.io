@@ -106,7 +106,14 @@ referate:
     social: ''
 - title: Nachhaltigkeit
   section: nachhaltigkeit
-  members: []
+  members:
+  - name: Charlie
+    mail: asta-nachhaltigkeit@students-htw.de
+    mailbetreff: Frage an das Nachhaltigkeitsreferat
+    picture: unknown.png
+    desc: ''
+    position: Nachhaltigkeit
+    social: ''
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
