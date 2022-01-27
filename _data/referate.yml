@@ -27,6 +27,13 @@ referate:
 - title: Soziales
   section: soziales
   members:
+  - name: Andriy
+    mail: asta-soziales@students-htw.de
+    mailbetreff: Frage an Soziales
+    picture: unknown.png
+    desc: ''
+    position: Soziales
+    social: ''
   - name: Alexander A.
     mail: asta-soziales@students-htw.de
     mailbetreff: Frage an Soziales
@@ -39,26 +46,33 @@ referate:
     picture: fotoalexander.jpg
 - title: Internationales
   section: internationales
-  members:
-  - name: Darian P.
-    mail: asta-international@students-htw.de
-    mailbetreff: Frage an Internationales
-    picture: fotodarianklein.jpg
-    desc: Somebody said that it couldn’t be done But he with a chuckle replied that
-      “maybe it couldn’t,” but he would be one who wouldn’t say so till he’d tried.
-      - Edgar Albert Guest
-    position: Internationales
-    social:
-      instagram: ''
-      linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
+  members: []
 - title: Anti-Diskriminierung
   section: antidis
   members:
   - name: 'Myriam '
     mail: " asta-antidis@students-htw.de"
-    mailbetreff: Frage an Anti-Diskriminierung
+    mailbetreff: Frage an das Referat Antidiskriminierung
     picture: unknown.png
     desc: ''
+    position: Anti-Diskriminierung, 2. stellvertretende Vorsitzende
+    social: ''
+  - name: Georgina
+    mail: " asta-antidis@students-htw.de"
+    mailbetreff: Frage an das Referat Antidiskriminierung
+    picture: unknown.png
+    desc: ''
+    position: Anti-Diskriminierung
+    social: ''
+  - name: 'Kim Chiara '
+    mail: " asta-antidis@students-htw.de"
+    mailbetreff: Frage an das Referat Antidiskriminierung
+    picture: unknown.png
+    desc: Du fühlst dich benachteiligt und suchst Unterstützung ? Als Teil des Anti-Diskriminierungs
+      Referates bin ich gerne dein Ansprechpartnerin. Meine Schwerpunkte sind; Studieren
+      mit chronischer Krankheit oder Behinderung, sowie sexuelle Belästigung und Gewalt.
+      Ich unterstütze dich jedoch auch gerne in anderen Themenbereichen, die dir am
+      Herzen liegen.
     position: Anti-Diskriminierung
     social: ''
 - title: Lehre und Studium
@@ -68,22 +82,20 @@ referate:
     mail: asta-lust@students-htw.de
     mailbetreff: Frage zu Lehre und Studium
     picture: fotofelix.jpg
-    desc: |-
-      Akademischer Senat, Kuratorium und Fachbereichsrat sagen dir nichts?
-      Dir kommen so einige Dinge in deinem Studium komisch oder falsch vor?
-      Du hast formelle Fragen zum Studium?
-
-      Schreib mir und ich gebe mein Bestes, dir zu helfen.
+    desc: Akademischer Senat, Kuratorium und Fachbereichsrat sagen dir nichts?Dir
+      kommen so einige Dinge in deinem Studium komisch oder falsch vor?Du hast formelle
+      Fragen zum Studium?Schreib mir und ich gebe mein Bestes, dir zu helfen.
     position: Lehre und Studium
     social: ''
 - title: Kultur
   section: kultur
   members:
-  - name: Josefine S.
+  - name: Fiona
     mail: asta-kultur@students-htw.de
-    mailbetreff: Frage an Kultur
-    picture: unknown.png
-    desc: ''
+    mailbetreff: Frage an AStA Kultur
+    picture: fotofiona.jpg
+    desc: Umsetzung von Veranstaltungen Anlaufstelle für das Organisieren von Eventswünschen
+      der Studierenden Werben für Feierlichkeiten
     position: Kultur
     social: ''
 - title: Hochschulpolitik
@@ -93,31 +105,45 @@ referate:
     mail: asta-hopo@students-htw.de
     mailbetreff: Hochschulpolitik
     picture: unknown.png
-    desc: ''
-    position: Hochschulpolitik, Vorsitzende
+    desc: Anliegen im Bereich Hochschulpolitik, Semesterticketverhandlungen
+    position: Hochschulpolitik
     social: ''
 - title: Nachhaltigkeit
   section: nachhaltigkeit
   members:
-  - name: Jan R.
+  - name: Lor
     mail: asta-nachhaltigkeit@students-htw.de
-    mailbetreff: Frage an Nachhaltigkeit
+    mailbetreff: Frage an das Nachhaltigkeitsreferat
     picture: unknown.png
+    desc: ''
+    position: Nachhaltigkeit
+    social: ''
+  - name: Charlie
+    mail: asta-nachhaltigkeit@students-htw.de
+    mailbetreff: Frage an das Nachhaltigkeitsreferat
+    picture: unknown.png
+    desc: ''
     position: Nachhaltigkeit
     social: ''
 - title: Öffentlichkeitsarbeit
   section: oeffentlichkeitsarbeit
   members:
   - name: Marie Chiara Klatt
-    mail: asta-pr1@students-htw.de
+    mail: asta-pr@students-htw.de
     mailbetreff: Frage an Öffentlichkeitsarbeit 1
     picture: fotomarie.jpg
-    desc: ''
-    position: 'Öffentlichkeitsarbeit 1: Kommunikationsdesign, Social Media Management,
-      Pressearbeit'
+    desc: Kommunikationsdesign, Social Media Management, Pressearbeit
+    position: Öffentlichkeitsarbeit 1, Personalkommission, Vorsitzende
     social:
       instagram: ''
       linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
+  - name: Artus
+    mail: asta-pr@students-htw.de
+    mailbetreff: Frage an PR
+    picture: unknown.png
+    desc: ''
+    position: Öffentlichkeitsarbeit 1
+    social: ''
 - title: Informationsmanagement und Datenschutz
   members:
   - name: Carolina Track

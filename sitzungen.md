@@ -6,8 +6,6 @@ title_thin:
 image: Abb6
 
 ---
-Im Wintersemester 2021/2022 tagen wir wieder in Präsenz.
+Aufgrund der aktuellen Pandemie-Situation tagen wir wieder online.
 
-Unsere Sitzung findet immer dienstags um 19 Uhr im Raum WH B 106 statt. Damit wir alle Corona-Hygienemaßnahmen einhalten können, meldet euch bitte vorab per Mail an, wenn ihr eine Sitzung besuchen wollt: asta@students-htw.de.
-
-Wir freuen uns auf euch!
+Unsere Sitzung findet immer dienstags um 19 Uhr über [Zoom](https://htw-berlin.zoom.us/j/2236844587?pwd=R2lQdVJvMFB3eHlUVW4vWm5PUEY2UT09#success) statt. Wenn ihr ein besonderes Anliegen habt, meldet euch bitte vorher per Mail an asta@students-htw.de an. Besucher sind immer gern gesehen!
