@@ -28,6 +28,8 @@ Der AStA der HTW fordert daher die Berliner Senatskanzlei und alle Mitglieder de
 
 Niemand darf zwischen einem Infektionsrisiko und dem Fortschritt im Studium wählen müssen, daher braucht es so viele Onlineprüfungen wie möglich. Studienfortschritt ist wichtig, aber noch wichtiger ist unsere Gesundheit und die Gesundheit unserer Mitmenschen.
 
+<br>
+
 ***
 
 ### Wichtige Infos zum Semesterticket
