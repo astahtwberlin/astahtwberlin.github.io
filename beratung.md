@@ -42,7 +42,7 @@ Damit wir gegebenenfalls schnell reagieren können, sind Namen und die Kursbezei
 
 Übrigens sind wir auch für dich da, wenn du als marginalisierte Person Sorgen hast. Wir freuen uns über Ideen und Vorschläge aus der Studierendenschaft! Gerne unterstützen wir auch Gruppen im Bereich der Sichtbarmachung von Diskriminierung bei der Gründung (Studentische Initiativen) oder eure Veranstaltungen zum Thema. Kommt einfach auf uns zu und wir schauen, wie wir euch unterstützen können.
 
-###### **Was wir bieten**
+###### **Was wir bieten:**
 
 Beratung bei Diskriminierungsvorfällen
 
