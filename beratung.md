@@ -28,7 +28,7 @@ Auf dem Server antworten wir auch außerhalb der Sprechstunden zeitnah auf eure 
 
 ***
 
-#### _Erstanlaufstelle bei Diskriminierung - Wir sind für ALLE_ Studierenden da!*
+#### _Erstanlaufstelle bei Diskriminierung - Wir sind für ALLE*_ Studierenden da!
 
 Diskriminierung gibt es überall. Auch an der HTW. Doch wir wollen mit eurer Unterstützung daran etwas verbessern.
 
