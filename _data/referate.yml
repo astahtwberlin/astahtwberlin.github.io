@@ -46,7 +46,16 @@ referate:
     picture: fotoalexander.jpg
 - title: Internationales
   section: internationales
-  members: []
+  members:
+  - mail: personal@students-htw.de
+    mailbetreff: Bewerbung auf das Referat Internationales
+    picture: unknown.jpg
+    desc: Willst du dich während deines Studiums ehrenamtlich engagieren und insbesondere
+      für Anliegen international Studierender einsetzen? Dann bewirb dich jetzt auf
+      das AStA-Referat Internationales!
+    position: Freie Stelle
+    social: ''
+    name: Du?
 - title: Anti-Diskriminierung
   section: antidis
   members:
