@@ -28,7 +28,7 @@ Auf dem Server antworten wir auch außerhalb der Sprechstunden zeitnah auf eure 
 
 ***
 
-**Erstanlaufstelle bei Diskriminierung - Wir sind für ALLE* Studierenden da!**
+###### _Erstanlaufstelle bei Diskriminierung - Wir sind für ALLE_ Studierenden da!*
 
 Diskriminierung gibt es überall. Auch an der HTW. Doch wir wollen mit eurer Unterstützung daran etwas verbessern.
 
@@ -36,14 +36,16 @@ Du hast Diskriminierung erlebt? Du hast sexuelle Gewalt erlebt?
 
 Du bist Zeuge oder Zeugin geworden, wie jemand diskriminiert wird?
 
-**Schreib uns eine Mail an** [**asta-antidis@students-htw.de**](mailto:asta-antidis@students-htw.de)
+###### **Schreib uns eine Mail an** [**asta-antidis@students-htw.de**](mailto:asta-antidis@students-htw.de)
 
 Damit wir gegebenenfalls schnell reagieren können, sind Namen und die Kursbezeichnung oder der Ort des Vorfalls von Vorteil. Ihr müsst uns diese Daten jedoch nicht sofort mitteilen, wenn ihr noch Vorbehalte habt. In jedem Fall werden deine Daten vertraulich behandelt! Wir gehen keine weiteren Schritte, ohne dein Einverständnis! Per Mail vereinbaren wir auch gern einen Beratungstermin mit euch. Diese finden aufgrund der Corona-Pandemie aktuell nur per Zoom oder Telefon statt.
 
 Übrigens sind wir auch für dich da, wenn du als marginalisierte Person Sorgen hast. Wir freuen uns über Ideen und Vorschläge aus der Studierendenschaft! Gerne unterstützen wir auch Gruppen im Bereich der Sichtbarmachung von Diskriminierung bei der Gründung (Studentische Initiativen) oder eure Veranstaltungen zum Thema. Kommt einfach auf uns zu und wir schauen, wie wir euch unterstützen können.
 
-**Was wir bieten**
+###### **Was wir bieten**
 
-* Beratung bei Diskriminierungsvorfällen
-* Begleitung bei Beschwerde- oder Meldverfahren innerhalb der Hochschule
-* Vermittlung von Expert*innen-Adressen
+Beratung bei Diskriminierungsvorfällen
+
+Begleitung bei Beschwerde- oder Meldverfahren innerhalb der Hochschule
+
+Vermittlung von Expert*innen-Adressen
