@@ -34,7 +34,7 @@ Diskriminierung gibt es überall. Auch an der HTW. Doch wir wollen mit eurer Unt
 
 Du hast Diskriminierung erlebt? Du hast sexuelle Gewalt erlebt?
 
-Du bist Zeuge oder Zeugin geworden, wie jemand diskriminiert wird?
+Du bist Zeuge oder Zeugin davon geworden, wie jemand diskriminiert wird?
 
 ###### **Schreib uns eine Mail an** [**asta-antidis@students-htw.de**](mailto:asta-antidis@students-htw.de)
 
