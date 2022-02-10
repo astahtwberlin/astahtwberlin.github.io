@@ -6,7 +6,9 @@ title_thin: ''
 image: Abb5
 
 ---
-###### Unsere Rechtsberatung für **Allgemeines Recht** (vor allem Miete, Strafrecht, Arbeitsrecht) und **Hochschulrecht** (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin **alle 2 Wochen** in ungeraden Kalenderwochen per Mail oder telefonisch statt.
+#### _Allgemeines Recht_
+
+Unsere Rechtsberatung für **Allgemeines Recht** (vor allem Miete, Strafrecht, Arbeitsrecht) und **Hochschulrecht** (alles was mit Prüfungen, Modulen, Praktikum etc. zu tun hat) findet weiterhin **alle 2 Wochen** in ungeraden Kalenderwochen per Mail oder telefonisch statt.
 
 ###### Unsere **Sozialrecht- und Bafög-Beratung** findet **einmal im Monat** statt.
 
