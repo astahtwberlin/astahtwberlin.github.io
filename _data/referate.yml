@@ -66,17 +66,6 @@ referate:
     desc: ''
     position: Anti-Diskriminierung 1 stellvertretende Vorsitzende
     social: ''
-  - name: Georgina
-    mail: " asta-antidis@students-htw.de"
-    mailbetreff: Frage an das Referat Antidiskriminierung
-    picture: unknown.png
-    desc: Mit allen Fragen rund um Anti-Diskriminierung seid ihr bei mir richtig.
-      Ich bin Studentin mit Kind und Migrationshintergrund. Auf meiner persönlichen
-      Fahne steht Intersektionalität. Auf das benachteiligte Gruppen in Zukunft an
-      unserer Hochschule mehr Fairness erleben und gesehen werden! Ich freue mich
-      besonders, empowernde Veranstaltungen für euch zu organisieren.
-    position: Anti-Diskriminierung 3
-    social: ''
   - name: 'Kim Chiara '
     mail: " asta-antidis@students-htw.de"
     mailbetreff: Frage an das Referat Antidiskriminierung
@@ -87,6 +76,17 @@ referate:
       Ich unterstütze dich jedoch auch gerne in anderen Themenbereichen, die dir am
       Herzen liegen.
     position: Anti-Diskriminierung 2
+    social: ''
+  - name: Georgina
+    mail: " asta-antidis@students-htw.de"
+    mailbetreff: Frage an das Referat Antidiskriminierung
+    picture: unknown.png
+    desc: Mit allen Fragen rund um Anti-Diskriminierung seid ihr bei mir richtig.
+      Ich bin Studentin mit Kind und Migrationshintergrund. Auf meiner persönlichen
+      Fahne steht Intersektionalität. Auf das benachteiligte Gruppen in Zukunft an
+      unserer Hochschule mehr Fairness erleben und gesehen werden! Ich freue mich
+      besonders, empowernde Veranstaltungen für euch zu organisieren.
+    position: Anti-Diskriminierung 3
     social: ''
 - title: Lehre und Studium
   section: lust
