@@ -48,8 +48,10 @@ Damit wir gegebenenfalls schnell reagieren können, sind Namen und die Kursbezei
 
 Beratung bei Diskriminierungsvorfällen
 
-Begleitung bei Beschwerde- oder Meldverfahren innerhalb der Hochschule
+Begleitung bei Beschwerde- oder Meldeverfahren innerhalb der Hochschule
 
 Vermittlung von Expert*innen-Adressen
+
+Wenn ihr mehr über unsere Arbeit wissen wollt, geht's **hier** lang. → [AStA-Website Reiter Anti-Diskriminierung](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/AStA-Website+Reiter+Anti-Diskriminierung)
 
 ***
