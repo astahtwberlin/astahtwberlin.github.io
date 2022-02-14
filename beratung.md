@@ -52,6 +52,6 @@ Begleitung bei Beschwerde- oder Meldeverfahren innerhalb der Hochschule
 
 Vermittlung von Expert*innen-Adressen
 
-Wenn ihr mehr über unsere Arbeit wissen wollt, geht's **hier** lang. → [AStA-Website Reiter Anti-Diskriminierung](https://wiki.htw-berlin.de/confluence/display/htwberlinasta/AStA-Website+Reiter+Anti-Diskriminierung)
+Wenn ihr mehr über unsere Arbeit wissen wollt, geht's[ **hier**](https://astahtwberlin.github.io/referate) lang.
 
 ***
