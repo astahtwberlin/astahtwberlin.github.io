@@ -148,16 +148,14 @@ referate:
     picture: fotomarie.jpg
     desc: Kommunikationsdesign, Social Media Management, Pressearbeit
     position: Öffentlichkeitsarbeit 1, Personalkommission, Vorsitzende
-    social:
-      instagram: ''
-      linkedin: https://www.linkedin.com/in/marie-chiara-klatt-3577241a2/
+    social: "[object Object]"
   - name: Artus
     mail: asta-pr@students-htw.de
     mailbetreff: Frage an PR
     picture: user.png
     desc: ''
     position: Öffentlichkeitsarbeit 1
-    social: ''
+    social: https://www.instagram.com/astahtw/
 - title: Datenschutz und Informationsmanagement
   members:
   - name: 'Gino '
