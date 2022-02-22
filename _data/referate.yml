@@ -34,16 +34,6 @@ referate:
     desc: ''
     position: Soziales
     social: ''
-  - name: Alexander A.
-    mail: asta-soziales@students-htw.de
-    mailbetreff: Frage an Soziales
-    desc: "(Erst)-Beratung, Weiterleitung und/oder Vermittlung einer telefonischen
-      Rechtsberatung mit einem Anwalt zu folgenden Themen: 1. Finanzielles (v.a. Studienfinanzierung
-      und Bafög, Arbeits- und Vertragsrecht, Wohnen, Krankenkasse, Sozialgesetzbuch),
-      2. Hochschulrecht (v.a. Probleme mit Prüfungen, Prüfern und Modulen)"
-    position: Soziales 1
-    social: ''
-    picture: fotoalexander.jpg
 - title: Internationales
   section: internationales
   members:
