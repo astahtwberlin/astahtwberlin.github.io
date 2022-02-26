@@ -16,9 +16,7 @@ Zur Anmeldung schickt uns einfach eine Mail mit dem Thema oder Problem, zu dem i
 
 Auch wenn ihr Fragen zu eurem Studium, Probleme bei der Studienorganisation oder -finanzierung habt, meldet euch bei uns!
 
-##### [Schreibt uns!](mailto:asta-soziales@students-htw.de)
-
-***
+##### [Schreibt uns!](mailto:asta-soziales@students-htw.de)  
 
 ***
 
