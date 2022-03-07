@@ -6,7 +6,7 @@ title_thin: ''
 image: ukraine.jpg
 
 ---
-**Liebe Freiwillige, im Moment haben wir DREI AUFNAHMESTELLEN und EINE AUSGABESTELLE:**
+**Liebe Freiwillige, im Moment haben wir Zwei AUFNAHMESTELLEN und EINE AUSGABESTELLE:**
 
 #### 1. AUSGABESTELLE
 
