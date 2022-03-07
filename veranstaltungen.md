@@ -1,7 +1,7 @@
 ---
 layout: bg_photo
 permalink: veranstaltungen
-title_strong: Veranstaltungen
+title_strong: Hilfe und Kontakt
 title_thin: ''
 image: Abb8
 
