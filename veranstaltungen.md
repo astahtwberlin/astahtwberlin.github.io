@@ -3,7 +3,7 @@ layout: bg_photo
 permalink: aktuelles
 title_strong: Hilfe und Kontakt
 title_thin: ''
-image: flagge-der-ukraine.jpg
+image: ukraine.jpg
 
 ---
 **Liebe Freiwillige, im Moment haben wir DREI AUFNAHMESTELLEN und EINE AUSGABESTELLE:**
