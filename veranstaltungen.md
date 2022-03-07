@@ -3,7 +3,7 @@ layout: bg_photo
 permalink: veranstaltungen
 title_strong: Hilfe und Kontakt
 title_thin: ''
-image: Abb8
+image: flagge-der-ukraine.jpg
 
 ---
 **Liebe Freiwillige, im Moment haben wir DREI AUFNAHMESTELLEN und EINE AUSGABESTELLE:**
