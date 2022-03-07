@@ -1,25 +1,25 @@
 ---
 navigation:
-  - title: Beratung
-    url: "/beratung"
-  - title: News
-    url: "/news"
-  - title: Referate
-    url: "/referate"
-  - title: Sitzungen
-    url: "/sitzungen"
-  - title: Veranstaltungen
-    url: "/veranstaltungen"
-  - title: Campusleben
+- title: Beratung
+  url: "/beratung"
+- title: News
+  url: "/news"
+- title: Referate
+  url: "/referate"
+- title: Sitzungen
+  url: "/sitzungen"
+- title: Aktuelles
+  url: "/aktuelles"
+- title: Campusleben
+  url: "/campusleben"
+  subfolderitems:
+  - page: Gremienwahlen
     url: "/campusleben"
-    subfolderitems:
-    - page: Gremienwahlen
-      url: "/campusleben"
-    - page: Studierendenparlament
-      url: "/campusleben#section-stupa"
-    - page: Fachschaftsräte
-      url: "/campusleben#section-fachschaften"
-    - page: Hochschulgremien
-      url: "/campusleben#section-hochschulgremien"
-    - page: INIs & Co.
-      url: "/campusleben#section-inis"
+  - page: Studierendenparlament
+    url: "/campusleben#section-stupa"
+  - page: Fachschaftsräte
+    url: "/campusleben#section-fachschaften"
+  - page: Hochschulgremien
+    url: "/campusleben#section-hochschulgremien"
+  - page: INIs & Co.
+    url: "/campusleben#section-inis"
