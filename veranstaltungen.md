@@ -1,6 +1,6 @@
 ---
 layout: bg_photo
-permalink: veranstaltungen
+permalink: aktuelles
 title_strong: Hilfe und Kontakt
 title_thin: ''
 image: flagge-der-ukraine.jpg
