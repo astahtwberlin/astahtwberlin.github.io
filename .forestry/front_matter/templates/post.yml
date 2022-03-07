@@ -11,3 +11,4 @@ fields:
   label: title
 pages:
 - _posts/2020-09-01-ein-neuer-versuch.md
+- aktuelles.md
